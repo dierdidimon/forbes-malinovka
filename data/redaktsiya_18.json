@@ -1,0 +1,5638 @@
+{
+  "number": 18,
+  "title": "Редакция №18",
+  "date": "",
+  "players": [
+    {
+      "nick": "Danya_Shinoda",
+      "cars": [
+        {
+          "type": "std",
+          "name": "Nissan 180SX",
+          "plate": "B184HA",
+          "gosCena": 339999,
+          "tuning": 270000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E190",
+          "plate": "M761EB",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "BMW M1 Malini Sport",
+          "plate": "—",
+          "gosCena": 799999,
+          "tuning": 440000
+        },
+        {
+          "type": "std",
+          "name": "Rossler Mirage",
+          "plate": "P172OC",
+          "gosCena": 2499999,
+          "tuning": 1183333
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 560 SEC",
+          "plate": "X120TM",
+          "gosCena": 1599999,
+          "tuning": 70000
+        },
+        {
+          "type": "fix",
+          "name": "Acura NSX I",
+          "plate": "X019CM",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLE63 (C167)",
+          "plate": "P790KB",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Targa 4S (992) / Rossler Mirage Targa 4S VII",
+          "plate": "E911EE",
+          "fixPrice": 3500000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Zetros 8x8",
+          "plate": "O276PM",
+          "fixPrice": 40000000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus Crawler 4x4",
+          "plate": "P784AE",
+          "fixPrice": 30000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом (средний/низкий класс)",
+          "price": 1349997,
+          "note": "госцена 449 999 × 3"
+        }
+      ],
+      "skins": [
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Гном М",
+          "price": 500000
+        },
+        {
+          "name": "Август",
+          "price": 1000000
+        },
+        {
+          "name": "Джентельмен Франц Драмех",
+          "price": 5000000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Murman_Centralniy",
+      "alias": "Cristofor_Columb (старый ник)",
+      "cars": [
+        {
+          "type": "std",
+          "name": "ГАЗ 2705 (#1)",
+          "plate": "—",
+          "gosCena": 119999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "ГАЗ 2705 (#2)",
+          "plate": "—",
+          "gosCena": 119999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "ГАЗ 2705 (#3)",
+          "plate": "—",
+          "gosCena": 119999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "BMW X6M (G06)",
+          "plate": "X060XM",
+          "fixPrice": 6000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Audi 200 (C3)",
+          "plate": "—",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Fiat 124",
+          "plate": "T004KA",
+          "gosCena": 359999,
+          "tuning": 197800,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach GLS 600",
+          "plate": "M333MM",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Volvo Crimson Knight",
+          "plate": "—",
+          "fixPrice": 50000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом #1",
+          "price": 149999
+        },
+        {
+          "name": "Дом #2",
+          "price": 749997
+        }
+      ],
+      "skins": [
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Персей",
+          "price": 2000000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Yury_Johani",
+      "cars": [
+        {
+          "type": "std",
+          "name": "Велосипед Giant",
+          "plate": "—",
+          "gosCena": 9999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Land Cruiser 300",
+          "plate": "A975CK",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "O075OO",
+          "fixPrice": 30000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Koenigsegg Gemera",
+          "plate": "X142YM",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Gepard FX R",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "KREWETKA Hercules 4x2",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Trident Vessel Sedan",
+          "plate": "—",
+          "gosCena": 339999,
+          "tuning": 88400
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore Egg V8",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 0
+        }
+      ],
+      "houses": [],
+      "skins": [
+        {
+          "name": "Апекс",
+          "price": 7000000
+        },
+        {
+          "name": "Валера",
+          "price": 500000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Магазин одежды «Базарный»",
+          "price": 40000000
+        }
+      ],
+      "phones": []
+    },
+    {
+      "nick": "Franky_Doyle",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G65 AMG I (W463)",
+          "plate": "B065OP",
+          "fixPrice": 70000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini LM002",
+          "plate": "C467PY",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW S1000",
+          "plate": "T910CB",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Panamera Turbo (II) (Rossler Riviera Turbo II)",
+          "plate": "B777HE",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "M555OO",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Taycan Turbo S (Rossler Taran Turbo S)",
+          "plate": "M222YP",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "A606YC",
+          "fixPrice": 35000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "B555HE",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi Sport Quattro S1",
+          "plate": "K001CY",
+          "fixPrice": 2000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model X",
+          "plate": "M594KE",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Zetros 8x8",
+          "plate": "B000MC",
+          "fixPrice": 40000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Новогодняя игрушка Москвич",
+          "plate": "O610EX",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi R8 (4S)",
+          "plate": "P888OO",
+          "fixPrice": 28000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "SAAB 92HK (Скуби-Ду)",
+          "plate": "T538HM",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "std",
+          "name": "BMW M1 Malini Sport",
+          "plate": "X503EY",
+          "gosCena": 799999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "Y146XA",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Rossler Javan Turbo (I)",
+          "plate": "O207KX",
+          "gosCena": 8398999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом высокого класса (Бусаево / Верхнее Заречное)",
+          "price": 9000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Мрак",
+          "price": 8000000
+        },
+        {
+          "name": "Билли Пулемёт",
+          "price": 10000000
+        },
+        {
+          "name": "Купидон М",
+          "price": 8000000
+        },
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Donya_Complex",
+      "cars": [
+        {
+          "type": "std",
+          "name": "Toyota Supra IV (A80)",
+          "plate": "T763OH",
+          "gosCena": 1999999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Велосипед Giant",
+          "plate": "—",
+          "gosCena": 9999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Audi R8 (4S)",
+          "plate": "P008BB",
+          "fixPrice": 28000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Taycan Turbo S (Rossler Taran Turbo S)",
+          "plate": "H102AX",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Cybertruck",
+          "plate": "X054EP",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "A608YC",
+          "fixPrice": 35000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "O785AY",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Nissan GT-R I (Nismo)",
+          "plate": "C435MA",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG One",
+          "plate": "C062EX",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Daewoo Matiz (Новогодний)",
+          "plate": "—",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "std",
+          "name": "Volvo Polestar (II)",
+          "plate": "Y495TO",
+          "gosCena": 1599999,
+          "tuning": 755000
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "C054EK",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Volvo Crimson Knight",
+          "plate": "A999YY",
+          "fixPrice": 50000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Zetros 8x8",
+          "plate": "—",
+          "fixPrice": 40000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "—",
+          "fixPrice": 30000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом (средний/низкий класс)",
+          "price": 1649997,
+          "note": "госцена 549 999 × 3"
+        }
+      ],
+      "skins": [
+        {
+          "name": "Нитра",
+          "price": 6000000
+        },
+        {
+          "name": "Китти",
+          "price": 500000
+        },
+        {
+          "name": "Шофёр Ж",
+          "price": 4500000
+        },
+        {
+          "name": "Амалия",
+          "price": 4000000
+        },
+        {
+          "name": "Рэйвен",
+          "price": 1500000
+        },
+        {
+          "name": "Альтушка",
+          "price": 2000000
+        },
+        {
+          "name": "Мелани",
+          "price": 2000000
+        },
+        {
+          "name": "Лия",
+          "price": 2000000
+        },
+        {
+          "name": "Мира",
+          "price": 4000000
+        },
+        {
+          "name": "Валерия",
+          "price": 2500000
+        },
+        {
+          "name": "Феникс",
+          "price": 1500000
+        },
+        {
+          "name": "Стелла",
+          "price": 3000000
+        },
+        {
+          "name": "Аврелия",
+          "price": 300000
+        },
+        {
+          "name": "Аврора",
+          "price": 800000
+        },
+        {
+          "name": "Дженни",
+          "price": 400000
+        },
+        {
+          "name": "Снежная Королева",
+          "price": 500000
+        },
+        {
+          "name": "Госпожа Мороз",
+          "price": 500000
+        },
+        {
+          "name": "Падший Ангел Ж",
+          "price": 2000000
+        },
+        {
+          "name": "Снегурочка",
+          "price": 1500000
+        },
+        {
+          "name": "Гномик",
+          "price": 500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Droper_Conextion",
+      "cars": [
+        {
+          "type": "std",
+          "name": "ГАЗ 2705",
+          "plate": "—",
+          "gosCena": 99999,
+          "tuning": 70000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "B005OP",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 109 SEL",
+          "plate": "—",
+          "gosCena": 339999,
+          "tuning": 170000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "T768KB",
+          "fixPrice": 35000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 749997
+        }
+      ],
+      "skins": [],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Boroda_Kyc",
+      "cars": [
+        {
+          "type": "std",
+          "name": "Велосипед Giant",
+          "plate": "—",
+          "gosCena": 9999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "ГАЗ 31029",
+          "plate": "K904EO",
+          "gosCena": 99999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "LADA Priora Oper",
+          "plate": "X585AM",
+          "fixPrice": 3000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Challenger SRT Demon III",
+          "plate": "Y380AP",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Supra V (A90)",
+          "plate": "H763ME",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S600 (W140)",
+          "plate": "K600YM",
+          "fixPrice": 3000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Hummer H1 (Hunter Bunker I)",
+          "plate": "A381CY",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "ГАЗ 24-10",
+          "plate": "M567YP",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLE63 (C167)",
+          "plate": "O228KH",
+          "fixPrice": 6000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "T024YM",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "Fiat 124",
+          "plate": "K156YC",
+          "gosCena": 359999,
+          "tuning": 300300
+        },
+        {
+          "type": "fix",
+          "name": "КамАЗ 54901",
+          "plate": "A017BC",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Phantom VII (Rich-Royal Visage VII)",
+          "plate": "M007EP",
+          "fixPrice": 13000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Nord URB",
+          "plate": "B567OH",
+          "gosCena": 299999,
+          "tuning": 394000
+        },
+        {
+          "type": "fix",
+          "name": "Peterbilt 389",
+          "plate": "O156MC",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "VOLNA Nord EXP (LADA Niva 6x6)",
+          "plate": "K136XM",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E190",
+          "plate": "M019KO",
+          "gosCena": 499999,
+          "tuning": 332500
+        },
+        {
+          "type": "std",
+          "name": "BMW 540i (E34)",
+          "plate": "P596MK",
+          "gosCena": 349999,
+          "tuning": 154667
+        },
+        {
+          "type": "std",
+          "name": "Ford Bronco V",
+          "plate": "H695AP",
+          "gosCena": 339999,
+          "tuning": 378950
+        },
+        {
+          "type": "std",
+          "name": "Volvo 850 GLT (I)",
+          "plate": "A340KT",
+          "gosCena": 499999,
+          "tuning": 357500
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "Y781TO",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Gepard FX R",
+          "plate": "C827HK",
+          "gosCena": 1599999,
+          "tuning": 268000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 599999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Джон",
+          "price": 200000
+        },
+        {
+          "name": "Валера",
+          "price": 500000
+        },
+        {
+          "name": "Шустрый",
+          "price": 500000
+        },
+        {
+          "name": "Юра",
+          "price": 300000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Caesar_Moriarti",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G65 AMG I (W463)",
+          "plate": "B744OP",
+          "fixPrice": 70000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "O555OO",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M4 (G82)",
+          "plate": "E000EE",
+          "fixPrice": 7000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "A999AX",
+          "fixPrice": 35000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Maybach S650 Pullman",
+          "plate": "H000HH",
+          "fixPrice": 17000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Peterbilt 389",
+          "plate": "Y361TO",
+          "fixPrice": 30000000
+        }
+      ],
+      "houses": [],
+      "skins": [
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Sanya_Morozov",
+      "cars": [
+        {
+          "type": "std",
+          "name": "ВАЗ 2106",
+          "plate": "B287EX",
+          "gosCena": 99999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Challenger SRT Demon III",
+          "plate": "C089OP",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini LM002",
+          "plate": "C920MB",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Supra V (A90)",
+          "plate": "B596ME",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Mitsubishi Lancer Evolution VIII",
+          "plate": "P179HO",
+          "gosCena": 699999,
+          "tuning": 108250
+        },
+        {
+          "type": "fix",
+          "name": "Scania R730",
+          "plate": "K368ET",
+          "fixPrice": 8000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 R VII (991) (Rossler Mirage R VII)",
+          "plate": "C969EX",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Ford F-350 XIV",
+          "plate": "X710AM",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz Zetros 3643",
+          "plate": "H274EO",
+          "gosCena": 4849999,
+          "tuning": 1312500
+        },
+        {
+          "type": "std",
+          "name": "Chevrolet Camaro (VI)",
+          "plate": "O251PK",
+          "gosCena": 2499999,
+          "tuning": 1334583
+        },
+        {
+          "type": "fix",
+          "name": "BMW X6M (G06)",
+          "plate": "C598MO",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "BMW M6 II (E63)",
+          "plate": "X184OB",
+          "gosCena": 1299999,
+          "tuning": 554000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 III (E46)",
+          "plate": "E483MX",
+          "fixPrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7 (4K)",
+          "plate": "A835KT",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный Урал Next",
+          "plate": "A840CP",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "std",
+          "name": "Gepard KX (II)",
+          "plate": "B896KP",
+          "gosCena": 2499999,
+          "tuning": 1615000
+        },
+        {
+          "type": "std",
+          "name": "BMW 530d (F10)",
+          "plate": "P453CK",
+          "gosCena": 2499999,
+          "tuning": 1050000
+        },
+        {
+          "type": "std",
+          "name": "BMW 750Li III (E38)",
+          "plate": "X041AK",
+          "gosCena": 1799999,
+          "tuning": 504000
+        },
+        {
+          "type": "fix",
+          "name": "Volkswagen Beetle Harlekin",
+          "plate": "Y137HT",
+          "fixPrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "H376OY",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Lexus RC F (I)",
+          "plate": "X989AM",
+          "gosCena": 2499999,
+          "tuning": 2513333,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Actros 1863",
+          "plate": "P134XH",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Audi A4 allroad (B8)",
+          "plate": "O372PE",
+          "gosCena": 799999,
+          "tuning": 224000
+        },
+        {
+          "type": "std",
+          "name": "АЗЛК 407 / ИЖ 407",
+          "plate": "Y481MO",
+          "gosCena": 399999,
+          "tuning": 294500
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S63 (C217)",
+          "plate": "P469HE",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "A018KM",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLE63 (C167)",
+          "plate": "A480YX",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "BMW X5 I (E53)",
+          "plate": "C409BY",
+          "gosCena": 999999,
+          "tuning": 411250
+        },
+        {
+          "type": "std",
+          "name": "BMW M3 E30",
+          "plate": "A425KO",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz C43 AMG (W206)",
+          "plate": "B532YM",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "std",
+          "name": "Rossler Mirage",
+          "plate": "C575PC",
+          "gosCena": 2499999,
+          "tuning": 1678333
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "K196YB",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Continental GT (II)",
+          "plate": "O275KY",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "C001EM",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model Y",
+          "plate": "O098TM",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "std",
+          "name": "Cadillac CTS-V III",
+          "plate": "O380XM",
+          "gosCena": 1099999,
+          "tuning": 558000
+        },
+        {
+          "type": "std",
+          "name": "RAM 1500 TRX",
+          "plate": "A012CK",
+          "gosCena": 1599999,
+          "tuning": 622000
+        },
+        {
+          "type": "std",
+          "name": "Honda Civic Type R (FK8)",
+          "plate": "E830XH",
+          "gosCena": 1599999,
+          "tuning": 798000
+        },
+        {
+          "type": "fix",
+          "name": "BMW i8",
+          "plate": "X634AM",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Cybertruck",
+          "plate": "X560KM",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "std",
+          "name": "BMW 535i IV (E39)",
+          "plate": "T530YK",
+          "gosCena": 499999,
+          "tuning": 300000
+        },
+        {
+          "type": "std",
+          "name": "Dodge RAM SRT-10 (III)",
+          "plate": "H835EB",
+          "gosCena": 1599999,
+          "tuning": 1194500
+        },
+        {
+          "type": "std",
+          "name": "Ford F100 1966",
+          "plate": "E328MH",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Vega RS",
+          "plate": "P157YK",
+          "gosCena": 499999,
+          "tuning": 723750
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "Y964HC",
+          "gosCena": 359999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 449999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Conchito_Conextion",
+      "cars": [
+        {
+          "type": "std",
+          "name": "ГАЗ 2705",
+          "plate": "E052BY",
+          "gosCena": 99999,
+          "tuning": 145000
+        },
+        {
+          "type": "std",
+          "name": "Polaris Sportsman 500",
+          "plate": "—",
+          "gosCena": 49999,
+          "tuning": 80000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Supra V (A90)",
+          "plate": "C093EX",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Lincoln Town Car I",
+          "plate": "P784CB",
+          "gosCena": 299999,
+          "tuning": 799000
+        },
+        {
+          "type": "std",
+          "name": "BMW 535is (E12) #1",
+          "plate": "Y512TA",
+          "gosCena": 399999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Ford Bronco V",
+          "plate": "M954XY",
+          "gosCena": 339999,
+          "tuning": 202450
+        },
+        {
+          "type": "std",
+          "name": "BMW 535is (E12) #2",
+          "plate": "M094PA",
+          "gosCena": 399999,
+          "tuning": 192000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "B228BB",
+          "fixPrice": 30000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "std",
+          "name": "Ford F100 1966",
+          "plate": "Y652CB",
+          "gosCena": 339999,
+          "tuning": 368800
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E190",
+          "plate": "C605MA",
+          "gosCena": 499999,
+          "tuning": 370000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 109 SEL #1",
+          "plate": "E630HT",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 109 SEL #2",
+          "plate": "C069EK",
+          "gosCena": 339999,
+          "tuning": 102000
+        },
+        {
+          "type": "std",
+          "name": "Jeep Grand Cherokee (ZJ)",
+          "plate": "M504AB",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "X438BK",
+          "gosCena": 1099999,
+          "tuning": 690500
+        },
+        {
+          "type": "std",
+          "name": "Volvo 944 A-Traktor",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Brabus Crawler 4x4",
+          "plate": "M937EC",
+          "fixPrice": 30000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 749997
+        }
+      ],
+      "skins": [
+        {
+          "name": "Мрак",
+          "price": 8000000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Кинотеатр",
+          "price": 135000000
+        }
+      ],
+      "phones": [
+        {
+          "name": "Телефон XXXXXX (6 одинаковых)",
+          "price": 20000000
+        }
+      ]
+    },
+    {
+      "nick": "Takuru_Otsuki",
+      "alias": "Прошлая редакция, без изменений",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "УАЗ Patriot (23 февраля)",
+          "plate": "—",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Ford F-350 XIV",
+          "plate": "—",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 900 Rocket",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus R900 AMG GT63S",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi ×2",
+          "plate": "—",
+          "fixPrice": 60000000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R730",
+          "plate": "—",
+          "fixPrice": 8000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5CS (F90)",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW XM",
+          "plate": "—",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG GT (I)",
+          "plate": "—",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Charger Daytona",
+          "plate": "—",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Прочие машины + тюнинг (стандартные)",
+          "plate": "—",
+          "fixPrice": 27008593,
+          "note": "Детализация в xlsx"
+        },
+        {
+          "type": "fix",
+          "name": "Донатные номера (А666АА, М555АМ, А777ОО, М111КУ, У111УУ, А050АА)",
+          "plate": "—",
+          "fixPrice": 16000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом высокого класса",
+          "price": 9000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Мелани",
+          "price": 2000000
+        },
+        {
+          "name": "Мира",
+          "price": 4000000
+        },
+        {
+          "name": "Офница",
+          "price": 1500000
+        },
+        {
+          "name": "Валерия",
+          "price": 2500000
+        },
+        {
+          "name": "Шофер",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Anatoly_Cat",
+      "alias": "Прошлая редакция, без изменений",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G65 AMG I (W463) (п) ×2",
+          "plate": "—",
+          "fixPrice": 140000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Boxster IV 718 (982) (п)",
+          "plate": "—",
+          "fixPrice": 70000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Panamera Turbo (II) (п)",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 IV (E60) (п)",
+          "plate": "—",
+          "fixPrice": 40000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Supra IV (A80) (п) ×2",
+          "plate": "—",
+          "fixPrice": 60000000
+        },
+        {
+          "type": "fix",
+          "name": "LADA Priora TANK",
+          "plate": "—",
+          "fixPrice": 40000000
+        },
+        {
+          "type": "fix",
+          "name": "Новогодний BMW X5 I (E53)",
+          "plate": "—",
+          "fixPrice": 17000000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный Audi A5 I (8T)",
+          "plate": "—",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz CLS 63 AMG ×2",
+          "plate": "—",
+          "fixPrice": 44000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi R8 (4S) (п) ×2",
+          "plate": "—",
+          "fixPrice": 56000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Supra V (A90)",
+          "plate": "—",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Acura NSX I",
+          "plate": "—",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "fix",
+          "name": "Ford F-350 XIV ×2",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "—",
+          "fixPrice": 8000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7 (4K)",
+          "plate": "—",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Huracan",
+          "plate": "—",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Bentayga ×2",
+          "plate": "—",
+          "fixPrice": 50000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700 ×2",
+          "plate": "—",
+          "fixPrice": 50000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz E63S (W213) (II) ×2",
+          "plate": "—",
+          "fixPrice": 14000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach S650",
+          "plate": "—",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari 488",
+          "plate": "—",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Urus",
+          "plate": "—",
+          "fixPrice": 17000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "—",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "—",
+          "fixPrice": 35000000
+        },
+        {
+          "type": "fix",
+          "name": "Nissan GT-R I (Nismo)",
+          "plate": "—",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Land Cruiser 300",
+          "plate": "—",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus R900 AMG GT63S ×2",
+          "plate": "—",
+          "fixPrice": 60000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Turbo Brabus",
+          "plate": "—",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Flying Spur Mansory",
+          "plate": "—",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus Crawler 4x4",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Malpool",
+          "plate": "—",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5CS (F90)",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 (F91) ×2",
+          "plate": "—",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach GLS 600",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Ford GT II",
+          "plate": "—",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW i8 ×3",
+          "plate": "—",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Прочие машины + тюнинг (стандартные)",
+          "plate": "—",
+          "fixPrice": 68007610,
+          "note": "Детализация в xlsx"
+        },
+        {
+          "type": "fix",
+          "name": "Донатные номера (44 шт)",
+          "plate": "—",
+          "fixPrice": 108000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Элитный дом",
+          "price": 20000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Уолтер",
+          "price": 1500000
+        },
+        {
+          "name": "Апекс",
+          "price": 7000000
+        },
+        {
+          "name": "Сплит",
+          "price": 7000000
+        },
+        {
+          "name": "Клоун М",
+          "price": 1500000
+        },
+        {
+          "name": "Антей",
+          "price": 7000000
+        },
+        {
+          "name": "Персей",
+          "price": 2000000
+        },
+        {
+          "name": "Дориан",
+          "price": 1500000
+        },
+        {
+          "name": "Зеро",
+          "price": 1000000
+        },
+        {
+          "name": "Сол",
+          "price": 2000000
+        },
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Купидон М",
+          "price": 8000000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Казино",
+          "price": 350000000
+        }
+      ],
+      "phones": []
+    },
+    {
+      "nick": "Amina_Kennet",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Malpool",
+          "plate": "C416HB",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "M707YP",
+          "fixPrice": 25000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Gepard KX (II)",
+          "plate": "M293PY",
+          "gosCena": 2499999,
+          "tuning": 1765000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ВАЗ 2105",
+          "plate": "C701PE",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M4 (G82)",
+          "plate": "M400OM",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Harley-Davidson XL883N",
+          "plate": "P763MK",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG One",
+          "plate": "K400OO",
+          "fixPrice": 25000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "T916XE",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "H456XK",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "BMW M1 Malini Sport",
+          "plate": "—",
+          "gosCena": 799999,
+          "tuning": 351333
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11",
+          "plate": "C039AK",
+          "gosCena": 2499999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 149999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Майя",
+          "price": 9000000
+        },
+        {
+          "name": "Нокс",
+          "price": 2000000
+        },
+        {
+          "name": "Мира",
+          "price": 4000000
+        },
+        {
+          "name": "Стелла",
+          "price": 3000000
+        },
+        {
+          "name": "Снежная Королева",
+          "price": 500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Janila_Jukov",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz CLS 63 AMG",
+          "plate": "M999MP",
+          "fixPrice": 22000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "M007KC",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Cullinan (M) I (Rich-Royal Citadel)",
+          "plate": "E112KX",
+          "fixPrice": 45000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "std",
+          "name": "Volvo 850 GLT (I)",
+          "plate": "T217HM",
+          "gosCena": 499999,
+          "tuning": 315833
+        },
+        {
+          "type": "fix",
+          "name": "Koenigsegg Gemera",
+          "plate": "M040MP",
+          "fixPrice": 25000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "BMW M1 Malini Sport",
+          "plate": "—",
+          "gosCena": 799999,
+          "tuning": 454000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S600 (W140)",
+          "plate": "M600PC",
+          "fixPrice": 3000000,
+          "platePrice": 500000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 449999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Драйвер",
+          "price": 2000000
+        },
+        {
+          "name": "Кен",
+          "price": 5000000
+        },
+        {
+          "name": "Антей",
+          "price": 7000000
+        },
+        {
+          "name": "Тяжелый Люкс М",
+          "price": 5000000
+        },
+        {
+          "name": "Паук",
+          "price": 3000000
+        },
+        {
+          "name": "Апекс",
+          "price": 7000000
+        },
+        {
+          "name": "Сол",
+          "price": 2000000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Flash_Johani",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S600 (W140)",
+          "plate": "H001AX",
+          "fixPrice": 3000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Challenger SRT Demon III",
+          "plate": "X002AM",
+          "fixPrice": 5000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Volkswagen Touareg II",
+          "plate": "Y048EC",
+          "gosCena": 1499999,
+          "tuning": 856250
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2113 (п)",
+          "plate": "O701CA",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 R VII (Rossler Mirage R VII)",
+          "plate": "K329HO",
+          "fixPrice": 7000000
+        },
+        {
+          "type": "fix",
+          "name": "Lada Niva 4x4 Anti-Gelik",
+          "plate": "A769YH",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "std",
+          "name": "Kraft Neo V",
+          "plate": "M645BT",
+          "gosCena": 699999,
+          "tuning": 544750
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2110",
+          "plate": "O796XT",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R700",
+          "plate": "X863YB",
+          "fixPrice": 6000000
+        }
+      ],
+      "houses": [],
+      "skins": [
+        {
+          "name": "Апекс",
+          "price": 7000000
+        },
+        {
+          "name": "Валера",
+          "price": 500000
+        },
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Дориан",
+          "price": 1500000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Магазин одежды «Фраерок и Фифочка»",
+          "price": 35000000
+        }
+      ],
+      "phones": []
+    },
+    {
+      "nick": "Nadya_Kus",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Hummer H1 (Hunter Bunker I)",
+          "plate": "K056YC",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "std",
+          "name": "Cadillac CTS-V III",
+          "plate": "P148BA",
+          "gosCena": 1099999,
+          "tuning": 563000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Cybertruck",
+          "plate": "B817YX",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Man TGS (41.640 8x8)",
+          "plate": "B031OA",
+          "fixPrice": 7000000
+        },
+        {
+          "type": "std",
+          "name": "Skoda Octavia RS (III)",
+          "plate": "C037XA",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "E017CP",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz C63 W204",
+          "plate": "A417OY",
+          "gosCena": 1099999,
+          "tuning": 0,
+          "note": "по госке"
+        },
+        {
+          "type": "fix",
+          "name": "Scania R700",
+          "plate": "E632HX",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "E103TY",
+          "gosCena": 1099999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 499999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Дрифтер.Ж",
+          "price": 1000000
+        },
+        {
+          "name": "Эйприл",
+          "price": 250000
+        },
+        {
+          "name": "Валерия",
+          "price": 2500000
+        },
+        {
+          "name": "Снежная Королева",
+          "price": 500000
+        },
+        {
+          "name": "Шофёр Ж",
+          "price": 4500000
+        },
+        {
+          "name": "Амалия",
+          "price": 4000000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Alex_Chestnyi",
+      "cars": [
+        {
+          "type": "std",
+          "name": "ГАЗ 2705",
+          "plate": "X645MP",
+          "gosCena": 119999,
+          "tuning": 22500
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "A001BM",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Land Cruiser 300",
+          "plate": "P729KM",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Peterbilt 389",
+          "plate": "X062EP",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "std",
+          "name": "Ford F100 1966 #1",
+          "plate": "O648BK",
+          "gosCena": 339999,
+          "tuning": 128800
+        },
+        {
+          "type": "fix",
+          "name": "VOLNA Nord EXP (LADA Niva 6x6)",
+          "plate": "H679KP",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model X",
+          "plate": "C512YB",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E190 #1",
+          "plate": "M064HT",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Ford F100 1966 #2",
+          "plate": "H518CX",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Zetros 8x8",
+          "plate": "B386MP",
+          "fixPrice": 40000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz C63 W204",
+          "plate": "A913PV",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz X-class (I) #1",
+          "plate": "X129BM",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG One",
+          "plate": "P709AY",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz X-class (I) #2",
+          "plate": "C910HX",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "BMW X5 I (E53)",
+          "plate": "E160CO",
+          "gosCena": 999999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 109 SEL",
+          "plate": "H645AE",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E190 #2",
+          "plate": "Y028AX",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Audi 200 (C3)",
+          "plate": "O378TB",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "O397XB",
+          "gosCena": 1099999,
+          "tuning": 438000
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "H715AO",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Volvo Crimson Knight",
+          "plate": "O589PH",
+          "fixPrice": 50000000
+        },
+        {
+          "type": "std",
+          "name": "BMW M1 Malini Sport",
+          "plate": "X839KB",
+          "gosCena": 799999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Trident Vessel Sedan",
+          "plate": "O562BT",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Gepard FX R",
+          "plate": "K912MH",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Volvo Polestar (II)",
+          "plate": "O783BT",
+          "gosCena": 1599999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 499999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Борис",
+          "price": 3000000
+        },
+        {
+          "name": "Скуф",
+          "price": 800000
+        },
+        {
+          "name": "Таксист",
+          "price": 2000000
+        },
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Jove_Johani",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Hummer H2 (23 февраля) (Hunter Bunker II)",
+          "plate": "X478AM",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "LADA Priora Oper",
+          "plate": "C710EM",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 AMG II (W463)",
+          "plate": "X020AM",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2107 (п)",
+          "plate": "X007AH",
+          "fixPrice": 3000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini LM002",
+          "plate": "M900YP",
+          "fixPrice": 6000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 R VII (Rossler Mirage R VII)",
+          "plate": "X004YY",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R730",
+          "plate": "O089AH",
+          "fixPrice": 8000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "C758XH",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный Урал Next",
+          "plate": "K974XE",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Malpool",
+          "plate": "A135KH",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7 (4K)",
+          "plate": "M019KA",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "M550KC",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 900 Rocket",
+          "plate": "O000OM",
+          "fixPrice": 30000000,
+          "platePrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "P281MY",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG GT (I)",
+          "plate": "C234EH",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Taycan Turbo S (Rossler Taran Turbo S)",
+          "plate": "C960KB",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Ford GT II",
+          "plate": "A000XA",
+          "fixPrice": 15000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari SF90 Stradale",
+          "plate": "C279KP",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "M318XT",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Cybertruck",
+          "plate": "C985OT",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Phantom VII (Rich-Royal Visage VII)",
+          "plate": "A652EP",
+          "fixPrice": 13000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW XM",
+          "plate": "O216CE",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ВАЗ 2105",
+          "plate": "A156MX",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Cullinan (Rich-Royal Citadel)",
+          "plate": "C916MO",
+          "fixPrice": 45000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach GLS 600",
+          "plate": "C600CC",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Bugatti Chiron (I)",
+          "plate": "A816XP",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus P900 Pickup",
+          "plate": "A681EX",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ГАЗ-1945",
+          "plate": "B281EC",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "K574TM",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus R900 AMG GT63S",
+          "plate": "E947OT",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "O888OM",
+          "fixPrice": 35000000,
+          "platePrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "M312EM",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Maybach S650 Pullman",
+          "plate": "P432AO",
+          "fixPrice": 17000000
+        },
+        {
+          "type": "fix",
+          "name": "Peterbilt 389",
+          "plate": "O111OM",
+          "fixPrice": 30000000,
+          "platePrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG One",
+          "plate": "A001EE",
+          "fixPrice": 25000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Новогодняя игрушка Москвич #1",
+          "plate": "C123XK",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Новогодняя игрушка Москвич #2",
+          "plate": "E392OC",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Flying Spur Mansory",
+          "plate": "E908XY",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "std",
+          "name": "BMW M1 Malini Sport",
+          "plate": "K254CB",
+          "gosCena": 799999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS6 (C8) Mansory",
+          "plate": "M315YT",
+          "fixPrice": 13000000
+        },
+        {
+          "type": "fix",
+          "name": "Volvo Crimson Knight",
+          "plate": "Y324BE",
+          "fixPrice": 50000000
+        },
+        {
+          "type": "fix",
+          "name": "Koenigsegg Gemera",
+          "plate": "E190HP",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus Crawler 4x4",
+          "plate": "E710YP",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Turbo Brabus (Rossler Mirage Turbo Brutus)",
+          "plate": "E018XT",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Land Cruiser 300",
+          "plate": "P756TY",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS3 (8Y)",
+          "plate": "X904YO",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R700",
+          "plate": "M382AC",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "VOLNA Nord EXP (LADA Niva 6x6)",
+          "plate": "A038YO",
+          "fixPrice": 2500000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом элитный гаражного типа",
+          "price": 13000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Шурик",
+          "price": 1500000
+        },
+        {
+          "name": "23 Февраля Рыбак",
+          "price": 10000000
+        },
+        {
+          "name": "Билли Пулемёт",
+          "price": 10000000
+        },
+        {
+          "name": "Тяжёлый Люкс М",
+          "price": 5000000
+        },
+        {
+          "name": "Дориан",
+          "price": 1500000
+        },
+        {
+          "name": "Кощей",
+          "price": 350000
+        },
+        {
+          "name": "Хантер",
+          "price": 800000
+        },
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Сол",
+          "price": 2000000
+        },
+        {
+          "name": "Зеро",
+          "price": 1000000
+        },
+        {
+          "name": "Магнум",
+          "price": 2000000
+        },
+        {
+          "name": "Сплит",
+          "price": 7000000
+        },
+        {
+          "name": "Апекс",
+          "price": 7000000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "АЗС №62",
+          "price": 40000000
+        }
+      ],
+      "phones": []
+    },
+    {
+      "nick": "Takura_Otsuki",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz CLS 63 AMG",
+          "plate": "C063EX",
+          "fixPrice": 22000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "K555KK",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "K052MC",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 900 Rocket",
+          "plate": "A777OO",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Nissan GT-R I (Nismo)",
+          "plate": "M000KY",
+          "fixPrice": 10000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Flying Spur Mansory",
+          "plate": "O228OO",
+          "fixPrice": 20000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "O057OO",
+          "fixPrice": 3500000,
+          "platePrice": 1000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 149999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Китти",
+          "price": 500000
+        },
+        {
+          "name": "Госпожа Мороз",
+          "price": 500000
+        },
+        {
+          "name": "Шофёр Ж",
+          "price": 4500000
+        },
+        {
+          "name": "Купидон",
+          "price": 8000000
+        },
+        {
+          "name": "Аврелия",
+          "price": 300000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Столовая «У Лёшеньки»",
+          "price": 35000000
+        }
+      ],
+      "phones": []
+    },
+    {
+      "nick": "Bajen_Conextion",
+      "alias": "Pinky_Moriarti / Zosima_Tatar (старые ники)",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Porsche Taycan Turbo S (Rossler Taran Turbo S)",
+          "plate": "X333EP",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "Y555YY",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Audi TT (8J)",
+          "plate": "M748TY",
+          "gosCena": 1599999,
+          "tuning": 1991333
+        },
+        {
+          "type": "std",
+          "name": "Ford F100 1966",
+          "plate": "T394XE",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz X-class (I)",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 608000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463) #1",
+          "plate": "C129УВ",
+          "gosCena": 359999,
+          "tuning": 296967
+        },
+        {
+          "type": "fix",
+          "name": "Новогодняя игрушка Москвич",
+          "plate": "X774AM",
+          "fixPrice": 2000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463) #2",
+          "plate": "P980УК",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "K336AB",
+          "fixPrice": 3500000
+        }
+      ],
+      "houses": [],
+      "skins": [
+        {
+          "name": "Апекс",
+          "price": 7000000
+        },
+        {
+          "name": "Триггер",
+          "price": 8000000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Pink_Moriarti",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Велосипед Giant цветной",
+          "plate": "B493MT",
+          "fixPrice": 1000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G65 AMG I (W463) Обычный",
+          "plate": "A520MP",
+          "gosCena": 11449999,
+          "tuning": 5365833,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2107 (п)",
+          "plate": "O007XX",
+          "fixPrice": 3000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Boxster IV 718 (982) (Rossler Rennster IV)",
+          "plate": "P999PP",
+          "fixPrice": 70000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G65 AMG I (W463)",
+          "plate": "X777AM",
+          "fixPrice": 70000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Panamera Turbo (II) (Rossler Riviera Turbo II)",
+          "plate": "C000CC",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "LADA Priora Oper",
+          "plate": "O074AK",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW S1000",
+          "plate": "B790XY",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 AMG II (W463)",
+          "plate": "T555TT",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "X700XX",
+          "fixPrice": 25000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "C000OO",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG GT (I)",
+          "plate": "M007CK",
+          "fixPrice": 20000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 560 SEC",
+          "plate": "Y093BK",
+          "gosCena": 1599999,
+          "tuning": 963000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Taycan Turbo S (Rossler Taran Turbo S)",
+          "plate": "P777TT",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 900 Rocket",
+          "plate": "B900OO",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Cullinan (Rich-Royal Citadel) #1",
+          "plate": "P797PP",
+          "fixPrice": 45000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Cullinan (Rich-Royal Citadel) #2",
+          "plate": "O800OO",
+          "fixPrice": 45000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach GLS 600",
+          "plate": "Y000OO",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus P900 Pickup",
+          "plate": "K777CA",
+          "fixPrice": 25000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari Purosangue",
+          "plate": "P123YC",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "M000OO",
+          "fixPrice": 35000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "X888AM",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus R900 AMG GT63S",
+          "plate": "A900AA",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Maybach S650 Pullman",
+          "plate": "E000OO",
+          "fixPrice": 17000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Turbo Brabus (Rossler Mirage Turbo Brutus)",
+          "plate": "A911AA",
+          "fixPrice": 12000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus Crawler 4x4",
+          "plate": "X000AA",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG One",
+          "plate": "P000OO",
+          "fixPrice": 25000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Новогодняя игрушка Москвич",
+          "plate": "P111HK",
+          "fixPrice": 2000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Koenigsegg Gemera",
+          "plate": "O049OO",
+          "fixPrice": 25000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Volvo Crimson Knight",
+          "plate": "X058AA",
+          "fixPrice": 50000000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Flying Spur Mansory",
+          "plate": "A111AB",
+          "fixPrice": 20000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 II (W463)",
+          "plate": "X007AM",
+          "gosCena": 4499999,
+          "tuning": 2408333,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Rich-Royal Whisper Armory",
+          "plate": "O444CB",
+          "gosCena": 5999999,
+          "tuning": 3173333,
+          "platePrice": 1500000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 149999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Апекс",
+          "price": 7000000
+        },
+        {
+          "name": "Мрак",
+          "price": 8000000
+        },
+        {
+          "name": "Сплит",
+          "price": 7000000
+        },
+        {
+          "name": "Купидон М",
+          "price": 8000000
+        },
+        {
+          "name": "Франко",
+          "price": 5000000
+        },
+        {
+          "name": "Юра",
+          "price": 300000
+        },
+        {
+          "name": "Валера",
+          "price": 500000
+        },
+        {
+          "name": "Борис",
+          "price": 3000000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Магазин одежды «Ветеран»",
+          "price": 35000000
+        }
+      ],
+      "phones": [
+        {
+          "name": "Телефон XXXXXX (6 одинаковых)",
+          "price": 20000000
+        }
+      ]
+    },
+    {
+      "nick": "Gavrik_Progrevskiy",
+      "cars": [
+        {
+          "type": "std",
+          "name": "Велосипед Giant",
+          "plate": "—",
+          "gosCena": 9999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Phantom VII (Rich-Royal Visage VII)",
+          "plate": "A001TA",
+          "fixPrice": 13000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "B071УМ",
+          "gosCena": 1099999,
+          "tuning": 15000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R700",
+          "plate": "Y578TE",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "C369HO",
+          "fixPrice": 35000000
+        },
+        {
+          "type": "std",
+          "name": "KREWETKA Hercules 4x2 (после списка)",
+          "plate": "X842CA",
+          "gosCena": 359999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 149999
+        }
+      ],
+      "skins": [],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Denis_Cat",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G65 AMG I (W463)",
+          "plate": "E777KX",
+          "fixPrice": 70000000,
+          "platePrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Boxster IV 718 (Rossler Rennster IV)",
+          "plate": "M666YP",
+          "fixPrice": 70000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "MINI Cooper S III (Nano Mason S III)",
+          "plate": "—",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "LADA Priora Tank",
+          "plate": "T034OO",
+          "fixPrice": 40000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Panamera Turbo (II) (Rossler Riviera Turbo II)",
+          "plate": "O000AO",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "LADA Priora Oper",
+          "plate": "H614ET",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "LADA Kalina (I)",
+          "plate": "K027TM",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 R VII (Rossler Mirage R VII)",
+          "plate": "A001HA",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz CLS 63 AMG",
+          "plate": "Y888YY",
+          "fixPrice": 22000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "C777CC",
+          "fixPrice": 25000000,
+          "platePrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Huracan",
+          "plate": "X069XX",
+          "fixPrice": 15000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90) #1",
+          "plate": "H555HH",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Vega RS",
+          "plate": "B887EC",
+          "gosCena": 499999,
+          "tuning": 662500,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "K052ET",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "C999EM",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Cybertruck",
+          "plate": "B868BB",
+          "fixPrice": 30000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW XM",
+          "plate": "M228MM",
+          "fixPrice": 20000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M4 (G82)",
+          "plate": "M004OO",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ВАЗ 2105",
+          "plate": "A725EP",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90) #2",
+          "plate": "M052KC",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 560SEL (W126)",
+          "plate": "K061AT",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E320 (W210) #1",
+          "plate": "H850AX",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus P900 Pickup",
+          "plate": "A666EE",
+          "fixPrice": 25000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Bugatti Chiron (I)",
+          "plate": "H491MC",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz ML 320 (W163) #1 [с КП]",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz ML 320 (W163) #2",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Land Cruiser 300",
+          "plate": "E444KX",
+          "fixPrice": 20000000,
+          "platePrice": 4000000
+        },
+        {
+          "type": "std",
+          "name": "Volvo FH 16.750 8x4",
+          "plate": "O234BH",
+          "gosCena": 4899999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "K666ET",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Ford F100 1966",
+          "plate": "—",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz ML 320 (W163) #3",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E320 (W210) #2",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz A45 AMG (W176)",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Volvo 944 A-Traktor #1",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK #1",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Volvo 850 GLT (I) #1",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Volvo 944 A-Traktor #2",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK #2",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Volvo 244 Turbo",
+          "plate": "X536HB",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Toyota MR2 I (W10)",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Honda Civic Type R (FK8)",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "BMW M1 Malini Sport",
+          "plate": "—",
+          "gosCena": 799999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Volvo 944 A-Traktor #3",
+          "plate": "M297AC",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Volvo 850 GLT (I) #2",
+          "plate": "C560KP",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK #3 [с КП]",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 330000
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11 #1",
+          "plate": "Y493KT",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11 #2",
+          "plate": "—",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11 #3",
+          "plate": "—",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11 #4",
+          "plate": "—",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Gepard FX R ×16 (B0+)",
+          "plate": "—",
+          "gosCena": 25599984,
+          "tuning": 0,
+          "note": "16 шт × 1 599 999"
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore Egg V8 ×16 (из 17, 1 не считается)",
+          "plate": "—",
+          "gosCena": 17599984,
+          "tuning": 0,
+          "note": "16 шт × 1 099 999"
+        },
+        {
+          "type": "std",
+          "name": "KREWETKA Hercules 4x2",
+          "plate": "C321EP",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Volvo 850 GLT (I) #3",
+          "plate": "E378HO",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11 #5",
+          "plate": "B562TY",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Rich-Royal Whisper Armory",
+          "plate": "A888BB",
+          "gosCena": 5999999,
+          "tuning": 2346667,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Trident Vessel Sedan",
+          "plate": "O746YX",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Nano Mason II",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Maybach S650 Pullman",
+          "plate": "—",
+          "fixPrice": 17000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 199999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Миллениум Ж",
+          "price": 700000
+        },
+        {
+          "name": "Борис",
+          "price": 3000000
+        },
+        {
+          "name": "Шурик",
+          "price": 1500000
+        },
+        {
+          "name": "Альтушка",
+          "price": 2000000
+        },
+        {
+          "name": "Хантер #1",
+          "price": 800000
+        },
+        {
+          "name": "Хантер #2",
+          "price": 800000
+        },
+        {
+          "name": "Джонгук",
+          "price": 500000
+        },
+        {
+          "name": "Джон",
+          "price": 200000
+        },
+        {
+          "name": "Кощей",
+          "price": 350000
+        },
+        {
+          "name": "Сплит",
+          "price": 7000000
+        },
+        {
+          "name": "Купидон М",
+          "price": 8000000
+        },
+        {
+          "name": "23 Февраля Рыбак",
+          "price": 10000000
+        },
+        {
+          "name": "Валерия",
+          "price": 2500000
+        },
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Господин Мороз #1",
+          "price": 500000
+        },
+        {
+          "name": "Господин Мороз #2",
+          "price": 500000
+        },
+        {
+          "name": "Госпожа Мороз",
+          "price": 500000
+        },
+        {
+          "name": "Мира",
+          "price": 4000000
+        },
+        {
+          "name": "Джентельмен Франц Драмех",
+          "price": 5000000
+        },
+        {
+          "name": "Дед Мороз (2022)",
+          "price": 1500000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Руб-банкъ",
+          "price": 200000000
+        }
+      ],
+      "phones": []
+    },
+    {
+      "nick": "Alexander_Staritsin",
+      "cars": [
+        {
+          "type": "std",
+          "name": "ВАЗ 2114",
+          "plate": "X028BC",
+          "gosCena": 129999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Huracan",
+          "plate": "A003AA",
+          "fixPrice": 15000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "M008KA",
+          "fixPrice": 8000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7 (4K)",
+          "plate": "P007PP",
+          "fixPrice": 12000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S63 (C217)",
+          "plate": "P063PP",
+          "fixPrice": 4000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "std",
+          "name": "BMW Z4 (E86)",
+          "plate": "C004CC",
+          "gosCena": 499999,
+          "tuning": 385000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari 488",
+          "plate": "A488AA",
+          "fixPrice": 15000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 (F91)",
+          "plate": "K008KK",
+          "fixPrice": 3500000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "A005MP",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz C43 AMG (W206)",
+          "plate": "A043AA",
+          "fixPrice": 4000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Phantom VII (Rich-Royal Visage VII)",
+          "plate": "O500OO",
+          "fixPrice": 13000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Urus",
+          "plate": "P000OM",
+          "fixPrice": 17000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Continental GT (II)",
+          "plate": "O400OO",
+          "fixPrice": 3500000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E63 (W212)",
+          "plate": "Y063YY",
+          "gosCena": 2499999,
+          "tuning": 1668333,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Cybertruck",
+          "plate": "A009MP",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW i8",
+          "plate": "E008EE",
+          "fixPrice": 4000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Lamborghini Gallardo",
+          "plate": "A004MP",
+          "gosCena": 5999999,
+          "tuning": 3731667,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "BMW 650i (F06)",
+          "plate": "E650EE",
+          "gosCena": 1099999,
+          "tuning": 653000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW I4 (G26)",
+          "plate": "E004EE",
+          "fixPrice": 3500000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M4 (G82)",
+          "plate": "O020OO",
+          "fixPrice": 7000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Maserati Levante I",
+          "plate": "M444EP",
+          "fixPrice": 4500000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S63 Coupe AMG",
+          "plate": "A063PA",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Porsche Cayenne (Rossler Barchan I)",
+          "plate": "O099OO",
+          "gosCena": 499999,
+          "tuning": 376667,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach S650",
+          "plate": "P650PP",
+          "fixPrice": 15000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Targa 4S (992) (Rossler Mirage Targa 4S VII)",
+          "plate": "O050OO",
+          "fixPrice": 3500000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 (G80)",
+          "plate": "M003KA",
+          "fixPrice": 6000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari Purosangue",
+          "plate": "O070OO",
+          "fixPrice": 20000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M2 (G87)",
+          "plate": "M002KA",
+          "fixPrice": 5000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Nissan GT-R I (Nismo)",
+          "plate": "A012YE",
+          "fixPrice": 10000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Land Cruiser 300",
+          "plate": "M111EP",
+          "fixPrice": 20000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Lamborghini Murcielago",
+          "plate": "O017OO",
+          "gosCena": 2499999,
+          "tuning": 1415000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus R900 AMG GT63S",
+          "plate": "A063MP",
+          "fixPrice": 30000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "O014OO",
+          "fixPrice": 25000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Cullinan (Rich-Royal Citadel)",
+          "plate": "O040OO",
+          "fixPrice": 45000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Audi TT (8J)",
+          "plate": "T002TT",
+          "gosCena": 1599999,
+          "tuning": 953000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "McLaren P1",
+          "plate": "A008MP",
+          "fixPrice": 17000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model X",
+          "plate": "A006MP",
+          "fixPrice": 25000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Dodge Charger (VII)",
+          "plate": "A003MP",
+          "gosCena": 1599999,
+          "tuning": 1553000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS6 (C8) Mansory",
+          "plate": "A006YE",
+          "fixPrice": 13000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Flying Spur Mansory",
+          "plate": "M222EP",
+          "fixPrice": 20000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz A45 AMG (W176)",
+          "plate": "A045AA",
+          "gosCena": 1099999,
+          "tuning": 745000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R700",
+          "plate": "P700PP",
+          "fixPrice": 6000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Turbo Brabus (Rossler Mirage Turbo Brutus)",
+          "plate": "K911KK",
+          "fixPrice": 12000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Zetros 8x8",
+          "plate": "A008AA",
+          "fixPrice": 40000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz C63 W204",
+          "plate": "P976OK",
+          "gosCena": 1099999,
+          "tuning": 806750
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLC 43 (C254)",
+          "plate": "A000PA",
+          "fixPrice": 3500000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz X-class (I)",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 781750
+        },
+        {
+          "type": "std",
+          "name": "Chevrolet Tahoe (III)",
+          "plate": "M333EP",
+          "gosCena": 1399999,
+          "tuning": 825000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Volvo Crimson Knight",
+          "plate": "P001PP",
+          "fixPrice": 50000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Koenigsegg Gemera",
+          "plate": "M010MM",
+          "fixPrice": 25000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Actros 1863",
+          "plate": "B100BB",
+          "fixPrice": 3000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "BMW M6 II (E63)",
+          "plate": "M006KA",
+          "gosCena": 1299999,
+          "tuning": 759000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "BMW X5 I (E53)",
+          "plate": "X050XX",
+          "gosCena": 999999,
+          "tuning": 552500,
+          "platePrice": 1500000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 449999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Сплит",
+          "price": 7000000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Amy_Telles",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Велосипед Giant цветной",
+          "plate": "—",
+          "fixPrice": 1000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G65 AMG I (W463) Обычный",
+          "plate": "X065EP",
+          "gosCena": 13738999,
+          "tuning": 5431700
+        },
+        {
+          "type": "std",
+          "name": "Porsche (Rossler Barchan II)",
+          "plate": "O000AA",
+          "gosCena": 15598999,
+          "tuning": 4214800,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2107 (п) #1",
+          "plate": "P503BX",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2107 (п) #2",
+          "plate": "A007OO",
+          "fixPrice": 3000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Panamera Turbo (II) (Rossler Riviera Turbo II)",
+          "plate": "B999OP",
+          "fixPrice": 30000000,
+          "platePrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Actros 1863",
+          "plate": "O479CK",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz CLS 63 AMG",
+          "plate": "M005EP",
+          "fixPrice": 22000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "ГАЗ М20",
+          "plate": "A819XM",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi R8 (4S)",
+          "plate": "M000OT",
+          "fixPrice": 28000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLE 350d I (W166)",
+          "plate": "E909KX",
+          "fixPrice": 7000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7 (4K)",
+          "plate": "A000MM",
+          "fixPrice": 12000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "A444MM",
+          "fixPrice": 8000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E63 (W212)",
+          "plate": "A063EE",
+          "gosCena": 2499999,
+          "tuning": 1325000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota HiAce H100",
+          "plate": "—",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz Zetros 3643",
+          "plate": "A968XB",
+          "gosCena": 4849999,
+          "tuning": 1215500
+        },
+        {
+          "type": "fix",
+          "name": "Ford F-350 XIV",
+          "plate": "H589MY",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "std",
+          "name": "Mitsubishi Pajero IV",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "M888OT",
+          "fixPrice": 25000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "BMW 335i (F30)",
+          "plate": "B359MP",
+          "gosCena": 1599999,
+          "tuning": 2761333
+        },
+        {
+          "type": "fix",
+          "name": "Sun Sport (KIA Stinger GT)",
+          "plate": "A999MM",
+          "fixPrice": 3000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Gepard KX (II) #1",
+          "plate": "C888AC",
+          "gosCena": 2499999,
+          "tuning": 1615000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Bentayga",
+          "plate": "H999AX",
+          "fixPrice": 25000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Malpool",
+          "plate": "—",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S63 (C217)",
+          "plate": "—",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Actros SLT",
+          "plate": "M940TP",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 CS (F90)",
+          "plate": "M505KC",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Lamborghini Gallardo",
+          "plate": "—",
+          "gosCena": 5999999,
+          "tuning": 2035000
+        },
+        {
+          "type": "std",
+          "name": "Skoda Octavia RS (III)",
+          "plate": "P620XO",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Continental GT (II)",
+          "plate": "C278HP",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "C888EM",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Fiat 124",
+          "plate": "E763CY",
+          "gosCena": 359999,
+          "tuning": 780467
+        },
+        {
+          "type": "std",
+          "name": "Renault Twizy (I)",
+          "plate": "C135EP",
+          "gosCena": 339999,
+          "tuning": 494667
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Targa 4S (Rossler Mirage Targa 4S VII)",
+          "plate": "X845HY",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Gepard KX (II) #2",
+          "plate": "E196XY",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Charger Daytona",
+          "plate": "P984XO",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Harley-Davidson XL883N",
+          "plate": "—",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "std",
+          "name": "BMW 530d (F10)",
+          "plate": "—",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Maybach S650 Pullman",
+          "plate": "T999OP",
+          "fixPrice": 17000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R700",
+          "plate": "M206CX",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz C63 W204",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 793000
+        },
+        {
+          "type": "std",
+          "name": "Volvo Polestar (II)",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 900000
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 734667
+        },
+        {
+          "type": "std",
+          "name": "BMW X7 (G07) (Bavaris X7 G07 I)",
+          "plate": "O404OO",
+          "gosCena": 15598999,
+          "tuning": 2551567,
+          "platePrice": 1000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом высокого класса",
+          "price": 9000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Феникс",
+          "price": 1500000
+        },
+        {
+          "name": "Снежная Королева",
+          "price": 500000
+        },
+        {
+          "name": "Эйприл",
+          "price": 250000
+        },
+        {
+          "name": "Эмилия",
+          "price": 2500000
+        },
+        {
+          "name": "Рэйвен",
+          "price": 1500000
+        },
+        {
+          "name": "Стелла",
+          "price": 3000000
+        },
+        {
+          "name": "Изольда",
+          "price": 5000000
+        },
+        {
+          "name": "Дженнифер",
+          "price": 200000
+        },
+        {
+          "name": "Дрифтер.Ж",
+          "price": 1000000
+        },
+        {
+          "name": "Амалия",
+          "price": 4000000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Магазин 24/7 «Каприз»",
+          "price": 25000000
+        }
+      ],
+      "phones": []
+    },
+    {
+      "nick": "Dimas_Lean",
+      "cars": [
+        {
+          "type": "std",
+          "name": "МТЗ 80",
+          "plate": "T985OY",
+          "gosCena": 129999,
+          "tuning": 105500
+        },
+        {
+          "type": "std",
+          "name": "ГАЗ 2705",
+          "plate": "H793AM",
+          "gosCena": 119999,
+          "tuning": 52000
+        },
+        {
+          "type": "std",
+          "name": "СМЗ С-3Д",
+          "plate": "—",
+          "gosCena": 26999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "УАЗ Hunter (п)",
+          "plate": "P513XT",
+          "fixPrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "УАЗ Patriot (23 Февр.)",
+          "plate": "Y047PC",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Nord URB",
+          "plate": "P382AY",
+          "gosCena": 299999,
+          "tuning": 24000
+        },
+        {
+          "type": "fix",
+          "name": "Sun Sport (KIA Stinger GT)",
+          "plate": "O650CA",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "BMW Z4 (E86)",
+          "plate": "O372TX",
+          "gosCena": 499999,
+          "tuning": 135000
+        },
+        {
+          "type": "std",
+          "name": "Dodge Charger (VII)",
+          "plate": "X053HB",
+          "gosCena": 1599999,
+          "tuning": 480000
+        },
+        {
+          "type": "std",
+          "name": "Plymouth Hemi Cuda 426",
+          "plate": "K594XO",
+          "gosCena": 499999,
+          "tuning": 480000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Turbo Brabus (Rossler Mirage Turbo Brutus)",
+          "plate": "K305XA",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R700",
+          "plate": "M724KE",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "C486AY",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E190",
+          "plate": "X942PC",
+          "gosCena": 499999,
+          "tuning": 115000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 109 SEL",
+          "plate": "X751KP",
+          "gosCena": 339999,
+          "tuning": 15000
+        },
+        {
+          "type": "std",
+          "name": "Volvo 944 A-Traktor",
+          "plate": "Y461XT",
+          "gosCena": 359999,
+          "tuning": 245300
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "B079MO",
+          "gosCena": 1099999,
+          "tuning": 330000
+        },
+        {
+          "type": "std",
+          "name": "Nano Mason II",
+          "plate": "O501BT",
+          "gosCena": 499999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Сталинка",
+          "price": 449999
+        }
+      ],
+      "skins": [],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Serega_Grom",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Toyota Supra IV (A80) (п)",
+          "plate": "C319OK",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini LM002",
+          "plate": "C021BH",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 R VII (Rossler Mirage R VII)",
+          "plate": "O000OA",
+          "fixPrice": 7000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Ford F-350 XIV",
+          "plate": "O265ET",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW S1000",
+          "plate": "C620YP",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota LC200 (2015) (п)",
+          "plate": "C360OH",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz Zetros 3643",
+          "plate": "O228EC",
+          "gosCena": 4849999,
+          "tuning": 2591333,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW X6M (G06)",
+          "plate": "M228YP",
+          "fixPrice": 6000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz E63S (W213) (II)",
+          "plate": "C005YK",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7 (4K)",
+          "plate": "O000XO",
+          "fixPrice": 12000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Huracan",
+          "plate": "M003YP",
+          "fixPrice": 15000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 III (E46)",
+          "plate": "X972KM",
+          "fixPrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "A001MH",
+          "fixPrice": 8000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Hummer H1 (Hunter Bunker I)",
+          "plate": "X597BH",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "C700BO",
+          "fixPrice": 25000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach S650",
+          "plate": "H530CY",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Bentayga",
+          "plate": "X431AM",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari 488",
+          "plate": "M007MM",
+          "fixPrice": 15000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Urus",
+          "plate": "O077OO",
+          "fixPrice": 17000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 (F91)",
+          "plate": "M001AY",
+          "fixPrice": 3500000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz C43 AMG (W206)",
+          "plate": "P001OO",
+          "fixPrice": 4000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLE63 (C167)",
+          "plate": "O974AT",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG GT (I)",
+          "plate": "O111KO",
+          "fixPrice": 20000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "E642TY",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "Lamborghini Gallardo",
+          "plate": "M013KA",
+          "gosCena": 5999999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Ford GT II",
+          "plate": "A000AP",
+          "fixPrice": 15000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari SF90 Stradale",
+          "plate": "H321MP",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Phantom VII (Rich-Royal Visage VII)",
+          "plate": "A052AA",
+          "fixPrice": 13000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW i8",
+          "plate": "T347BX",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW I4 (G26)",
+          "plate": "—",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Cullinan (Rich-Royal Citadel)",
+          "plate": "P999CC",
+          "fixPrice": 45000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M4 (G82)",
+          "plate": "K789YA",
+          "fixPrice": 7000000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ВАЗ 2105",
+          "plate": "E527BA",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 900 Rocket",
+          "plate": "C900BO",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW XM",
+          "plate": "H176TY",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S63 Coupe AMG",
+          "plate": "—",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach GLS 600",
+          "plate": "—",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 (G80) (Bavaris M3 G80)",
+          "plate": "O907TB",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Bugatti Chiron (I)",
+          "plate": "—",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Targa 4S (Rossler Mirage Targa 4S VII)",
+          "plate": "—",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "LiXiang L9",
+          "plate": "P729BO",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Aventador Ultimate",
+          "plate": "B249YX",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ГАЗ-1945",
+          "plate": "E027MT",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "C082BO",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Lamborghini Murcielago",
+          "plate": "—",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Maybach S650 Pullman",
+          "plate": "O650BO",
+          "fixPrice": 17000000
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Charger Daytona",
+          "plate": "—",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "E053HM",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Nissan GT-R I (Nismo)",
+          "plate": "O182AB",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "std",
+          "name": "Plymouth Hemi Cuda 426",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 290000
+        },
+        {
+          "type": "fix",
+          "name": "Harley-Davidson XL883N",
+          "plate": "C807TE",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "std",
+          "name": "Plymouth Prowler",
+          "plate": "P289EY",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS3 (8Y)",
+          "plate": "T374EK",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model X",
+          "plate": "K404OT",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLC 43 (C254)",
+          "plate": "—",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "K083PB",
+          "gosCena": 359999,
+          "tuning": 198300
+        },
+        {
+          "type": "fix",
+          "name": "Koenigsegg Gemera",
+          "plate": "M039YP",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Volvo Polestar (II)",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 1060000
+        },
+        {
+          "type": "fix",
+          "name": "SAAB 92HK (Скуби-Ду)",
+          "plate": "—",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "K527HB",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "BMW M1 Malini Sport",
+          "plate": "—",
+          "gosCena": 799999,
+          "tuning": 464000
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11",
+          "plate": "T805YK",
+          "gosCena": 2499999,
+          "tuning": 1640000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Turbo Brabus (Rossler Mirage Turbo Brutus)",
+          "plate": "A000EA",
+          "fixPrice": 12000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Toyota Land Cruiser Prado (2013)",
+          "plate": "—",
+          "gosCena": 2999999,
+          "tuning": 300000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Элитный дом",
+          "price": 20000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Кощей",
+          "price": 350000
+        },
+        {
+          "name": "Шофёр М",
+          "price": 4500000
+        },
+        {
+          "name": "Господин Мороз #1",
+          "price": 500000
+        },
+        {
+          "name": "Господин Мороз #2",
+          "price": 500000
+        },
+        {
+          "name": "Гном",
+          "price": 500000
+        },
+        {
+          "name": "Клаус",
+          "price": 3500000
+        },
+        {
+          "name": "Борис",
+          "price": 3000000
+        },
+        {
+          "name": "Гертруд",
+          "price": 3500000
+        },
+        {
+          "name": "Клоун",
+          "price": 1500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Daniel_Cat",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "M780YP",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach GLS 600",
+          "plate": "A099OO",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Lexus IS 250 (XE20)",
+          "plate": "T751PE",
+          "gosCena": 849999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "BMW M2 (G87)",
+          "plate": "C111CC",
+          "fixPrice": 5000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "АЗЛК 407",
+          "plate": "X402BM",
+          "gosCena": 399999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Brabus R900 AMG GT63S",
+          "plate": "A000KC",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Honda Civic Type R (FK8)",
+          "plate": "K000OO",
+          "gosCena": 1599999,
+          "tuning": 958000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "K777ET",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Mitsubishi Lancer X",
+          "plate": "—",
+          "gosCena": 869999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Vega RS",
+          "plate": "P712AE",
+          "gosCena": 499999,
+          "tuning": 322500
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz C63 W204 #1",
+          "plate": "E701TK",
+          "gosCena": 1099999,
+          "tuning": 438000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz X-class (I)",
+          "plate": "A017ME",
+          "gosCena": 1599999,
+          "tuning": 880500
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz C63 W204 #2",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Brabus Crawler 4x4",
+          "plate": "A006AA",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG One",
+          "plate": "A060AA",
+          "fixPrice": 25000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLC 43 (C254)",
+          "plate": "B871AP",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11 #1",
+          "plate": "—",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "E458AB",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Gepard FX R #1",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Dalton Moore GB11 #2",
+          "plate": "H690ET",
+          "gosCena": 2499999,
+          "tuning": 1560000
+        },
+        {
+          "type": "std",
+          "name": "Bavaris X7 G07 II (новый BMW X7)",
+          "plate": "A090MP",
+          "gosCena": 9999999,
+          "tuning": 5230000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Gepard FX R #2",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 0
+        }
+      ],
+      "houses": [],
+      "skins": [],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Rebecca_Berg",
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Велосипед Giant цветной",
+          "plate": "—",
+          "fixPrice": 1000000
+        },
+        {
+          "type": "std",
+          "name": "Polaris Sportsman 500",
+          "plate": "A935KX",
+          "gosCena": 49999,
+          "tuning": 380000
+        },
+        {
+          "type": "std",
+          "name": "Porsche Cayenne II (458) (Rossler Barchan II)",
+          "plate": "M111AM",
+          "gosCena": 15598999,
+          "tuning": 3644800,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Chrysler 300C (I)",
+          "plate": "X452AO",
+          "gosCena": 838999,
+          "tuning": 41950
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Actros 1863",
+          "plate": "X408CK",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Challenger SRT Demon III",
+          "plate": "M074YP",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R730",
+          "plate": "M123AM",
+          "fixPrice": 8000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW S1000",
+          "plate": "P058HO",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi R8 (4S)",
+          "plate": "A069KT",
+          "fixPrice": 28000000
+        },
+        {
+          "type": "std",
+          "name": "Audi TT (8J)",
+          "plate": "O000TT",
+          "gosCena": 1599999,
+          "tuning": 1169667,
+          "platePrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz E63S (W213) (II)",
+          "plate": "O043OB",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Chevrolet Camaro (VI)",
+          "plate": "X897TO",
+          "gosCena": 2499999,
+          "tuning": 2265000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Huracan",
+          "plate": "X162HO",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S63 (C217)",
+          "plate": "O063CC",
+          "fixPrice": 4000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Lamborghini Gallardo",
+          "plate": "C360HT",
+          "gosCena": 5999999,
+          "tuning": 2320000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Phantom VII (Rich-Royal Visage VII)",
+          "plate": "C623YE",
+          "fixPrice": 13000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLE63 (C167)",
+          "plate": "M887MM",
+          "fixPrice": 6000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "Y701AO",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "RAM 1500 TRX",
+          "plate": "E980MY",
+          "gosCena": 1599999,
+          "tuning": 608000
+        },
+        {
+          "type": "std",
+          "name": "Fiat 500 (II)",
+          "plate": "K104XA",
+          "gosCena": 1099999,
+          "tuning": 1077000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari SF90 Stradale",
+          "plate": "X169BA",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW i8",
+          "plate": "A740TE",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "T562OY",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS3 (8Y)",
+          "plate": "X286BM",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "O009OO",
+          "fixPrice": 25000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Bentayga",
+          "plate": "O001CE",
+          "fixPrice": 25000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "X800AM",
+          "fixPrice": 8000000,
+          "platePrice": 500000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом элитный гаражного типа",
+          "price": 13000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Аврелия",
+          "price": 300000
+        },
+        {
+          "name": "Валерия",
+          "price": 2500000
+        },
+        {
+          "name": "Тяжелый Люкс Ж",
+          "price": 5000000
+        },
+        {
+          "name": "Снежная Королева",
+          "price": 500000
+        },
+        {
+          "name": "Приезжая",
+          "price": 300000
+        },
+        {
+          "name": "Офница",
+          "price": 1500000
+        },
+        {
+          "name": "Вика",
+          "price": 800000
+        },
+        {
+          "name": "Гном Ж (Гномиха)",
+          "price": 500000
+        },
+        {
+          "name": "Гонщик Парень",
+          "price": 1000000
+        },
+        {
+          "name": "Шофёр Ж",
+          "price": 4500000
+        },
+        {
+          "name": "Клелия",
+          "price": 3000000
+        },
+        {
+          "name": "Анимешница",
+          "price": 169999
+        },
+        {
+          "name": "Рэйвен",
+          "price": 1500000
+        },
+        {
+          "name": "Пинк",
+          "price": 800000
+        },
+        {
+          "name": "Миллениум Ж",
+          "price": 700000
+        },
+        {
+          "name": "Дворовая",
+          "price": 300000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    },
+    {
+      "nick": "Matvei_Spasskiy",
+      "cars": [
+        {
+          "type": "std",
+          "name": "Chevrolet Niva",
+          "plate": "C395TP",
+          "gosCena": 309999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "BMW S1000",
+          "plate": "X493MA",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2115",
+          "plate": "A015EP",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S63 (C217)",
+          "plate": "K001MC",
+          "fixPrice": 4000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW R75",
+          "plate": "Y385KB",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz C43 AMG (W206)",
+          "plate": "M715KY",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Bugatti Chiron (I)",
+          "plate": "M777KY",
+          "fixPrice": 25000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz E63S (W213) (II)",
+          "plate": "K163PA",
+          "fixPrice": 7000000
+        },
+        {
+          "type": "std",
+          "name": "Honda CBR 500R",
+          "plate": "M783XB",
+          "gosCena": 2499999,
+          "tuning": 466667
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463) #1",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 172800
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz X-class (I)",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 861750
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463) #2",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463) #3",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "SAAB 92HK",
+          "plate": "M590XA",
+          "gosCena": 1099999,
+          "tuning": 608000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом (пгт Батырево)",
+          "price": 299999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Хантер",
+          "price": 800000
+        },
+        {
+          "name": "Паук",
+          "price": 3000000
+        },
+        {
+          "name": "Альтушка",
+          "price": 2000000
+        }
+      ],
+      "businesses": [],
+      "phones": []
+    }
+  ]
+}

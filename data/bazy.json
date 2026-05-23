@@ -1,0 +1,1835 @@
+{
+  "fix_cars": [
+    {
+      "name": "ИЖ-2126 (п)",
+      "price": 1000000
+    },
+    {
+      "name": "ВАЗ 2107 МКПП (п)",
+      "price": 3000000
+    },
+    {
+      "name": "ВАЗ 2107 АКПП (п)",
+      "price": 3000000
+    },
+    {
+      "name": "УАЗ Hunter (п)",
+      "price": 1000000
+    },
+    {
+      "name": "Mercedes-Benz G65 AMG I (W463) (п)",
+      "price": 70000000
+    },
+    {
+      "name": "BMW M5 VII (G30) (об.)",
+      "price": 40000000
+    },
+    {
+      "name": "Porsche Boxster IV 718 (982) (п) (Rossler Rennster IV)",
+      "price": 70000000
+    },
+    {
+      "name": "Porsche Panamera Turbo (II) (п) (Rossler Riviera Turbo II)",
+      "price": 30000000
+    },
+    {
+      "name": "BMW M5 IV (E60) (п)",
+      "price": 40000000
+    },
+    {
+      "name": "Audi Q7 I (4L) (п)",
+      "price": 20000000
+    },
+    {
+      "name": "Toyota Supra IV (A80) (п)",
+      "price": 30000000
+    },
+    {
+      "name": "MINI Hatch Cooper S III (F55) (14 февраля)* (Nano Mason S III)",
+      "price": 6000000
+    },
+    {
+      "name": "Hummer H2 (23 февраля) (Hunter Bunker II)",
+      "price": 12000000
+    },
+    {
+      "name": "LADA Niva Urban (23 февраля)",
+      "price": 10000000
+    },
+    {
+      "name": "LADA Priora TANK",
+      "price": 40000000
+    },
+    {
+      "name": "Новогодний Kawasaki Z400FX*",
+      "price": 4000000
+    },
+    {
+      "name": "Новогодний BMW X5 I (E53)",
+      "price": 17000000
+    },
+    {
+      "name": "LADA Priora Oper",
+      "price": 3000000
+    },
+    {
+      "name": "КамАЗ 54115 (23 февраля)",
+      "price": 10000000
+    },
+    {
+      "name": "Mercedez-Benz Actros (23 февраля)",
+      "price": 3000000
+    },
+    {
+      "name": "УАЗ Patriot (23 февраля)",
+      "price": 4000000
+    },
+    {
+      "name": "Opel Speedster (14 февраля)*",
+      "price": 5000000
+    },
+    {
+      "name": "Праздничный Audi A5 I (8T)",
+      "price": 15000000
+    },
+    {
+      "name": "Lotus Elise II*",
+      "price": 3000000
+    },
+    {
+      "name": "ВАЗ 2113 (п)",
+      "price": 500000
+    },
+    {
+      "name": "Toyota Mega Cruiser",
+      "price": 1500000
+    },
+    {
+      "name": "Toyota LC200 (2015) (п)",
+      "price": 10000000
+    },
+    {
+      "name": "Mercedes-Benz GLE 350d I (W166) (п)",
+      "price": 7000000
+    },
+    {
+      "name": "Mercedes-Benz CLS 63 AMG",
+      "price": 22000000
+    },
+    {
+      "name": "Audi R8 (4S) (п)",
+      "price": 28000000
+    },
+    {
+      "name": "Mercedes-Benz G63 AMG II (W463) (п)",
+      "price": 30000000
+    },
+    {
+      "name": "Mazda MX-5 I (NA)*",
+      "price": 5000000
+    },
+    {
+      "name": "Dodge Challenger SRT Demon III",
+      "price": 5000000
+    },
+    {
+      "name": "Toyota Supra V (A90)",
+      "price": 3500000
+    },
+    {
+      "name": "Lamborghini LM002",
+      "price": 6000000
+    },
+    {
+      "name": "Porsche 911 R VII (991) (Rossler Mirage R VII)",
+      "price": 7000000
+    },
+    {
+      "name": "Volkswagen Beetle Harlekin",
+      "price": 1500000
+    },
+    {
+      "name": "Acura NSX I",
+      "price": 10000000
+    },
+    {
+      "name": "Lada Niva 4x4 Anti-gelik",
+      "price": 2000000
+    },
+    {
+      "name": "Ford F-350 XIV",
+      "price": 15000000
+    },
+    {
+      "name": "BMW S1000",
+      "price": 6000000
+    },
+    {
+      "name": "Audi A4 allroad quattro",
+      "price": 1000000
+    },
+    {
+      "name": "Subaru Impreza WRX STi II",
+      "price": 1000000
+    },
+    {
+      "name": "BMW M3 III (E46)",
+      "price": 1500000
+    },
+    {
+      "name": "Mercedes-Benz CL 65 AMG (C216)",
+      "price": 2000000
+    },
+    {
+      "name": "Hummer H1 (Hunter Bunker I)",
+      "price": 2000000
+    },
+    {
+      "name": "Sun Sport (KIA Stinger GT)",
+      "price": 3000000
+    },
+    {
+      "name": "BMW X6M (G06)",
+      "price": 6000000
+    },
+    {
+      "name": "BMW M8 I (F93)",
+      "price": 8000000
+    },
+    {
+      "name": "Audi RS7 (4K)",
+      "price": 12000000
+    },
+    {
+      "name": "Lamborghini Huracan",
+      "price": 15000000
+    },
+    {
+      "name": "Bentley Bentayga",
+      "price": 25000000
+    },
+    {
+      "name": "Mercedes-Benz Brabus 700",
+      "price": 25000000
+    },
+    {
+      "name": "Mercedes-Benz E63S (W213) (II)",
+      "price": 7000000
+    },
+    {
+      "name": "Mercedes-Benz Maybach S650",
+      "price": 15000000
+    },
+    {
+      "name": "Mercedes-Benz S63 (C217)",
+      "price": 4000000
+    },
+    {
+      "name": "Mercedes-Benz E500 (W124)",
+      "price": 2000000
+    },
+    {
+      "name": "BMW 535is (E12)",
+      "price": 500000
+    },
+    {
+      "name": "BMW 530d (E61)",
+      "price": 1000000
+    },
+    {
+      "name": "Jeep Wrangler III (JK)",
+      "price": 2000000
+    },
+    {
+      "name": "Porsche 930",
+      "price": 3000000
+    },
+    {
+      "name": "Mercedes-Benz GLE63 (C167)",
+      "price": 6000000
+    },
+    {
+      "name": "Mercedes-Benz CLS 53 (C257)",
+      "price": 8000000
+    },
+    {
+      "name": "Rolls-Royce Phantom (VII) (Rich-Royal Visage VII)",
+      "price": 13000000
+    },
+    {
+      "name": "Ferrari 488",
+      "price": 15000000
+    },
+    {
+      "name": "Lamborghini Urus",
+      "price": 17000000
+    },
+    {
+      "name": "Mercedes-Benz Brabus 900 Rocket",
+      "price": 30000000
+    },
+    {
+      "name": "Tesla Model 3",
+      "price": 6000000
+    },
+    {
+      "name": "Mercedes-Benz C 250 (W204)",
+      "price": 1500000
+    },
+    {
+      "name": "Dodge RAM SRT-10 (III)",
+      "price": 2000000
+    },
+    {
+      "name": "Maserati Levante I",
+      "price": 4500000
+    },
+    {
+      "name": "BMW M4 (G82)",
+      "price": 7000000
+    },
+    {
+      "name": "McLaren P1",
+      "price": 17000000
+    },
+    {
+      "name": "Rolls-Royce Cullinan (M) I (Rich-Royal Citadel (A) I)",
+      "price": 45000000
+    },
+    {
+      "name": "Праздничный ВАЗ 2105*",
+      "price": 2000000
+    },
+    {
+      "name": "Toyota Camry VII (XV55)",
+      "price": 700000
+    },
+    {
+      "name": "Toyota Tundra (II)",
+      "price": 1500000
+    },
+    {
+      "name": "LiXiang L9",
+      "price": 5000000
+    },
+    {
+      "name": "BMW M3 (G80)",
+      "price": 6000000
+    },
+    {
+      "name": "Lamborghini Aventador Ultimate",
+      "price": 15000000
+    },
+    {
+      "name": "Mercedes-Benz Brabus P900 Pickup",
+      "price": 25000000
+    },
+    {
+      "name": "Tesla Model S Plaid",
+      "price": 25000000
+    },
+    {
+      "name": "Mercedes-Benz G63 6x6",
+      "price": 35000000
+    },
+    {
+      "name": "Mercedes-Maybach S650 Pullman",
+      "price": 17000000
+    },
+    {
+      "name": "Lexus IS 250 (XE20)",
+      "price": 700000
+    },
+    {
+      "name": "Ford Raptor F-150",
+      "price": 2000000
+    },
+    {
+      "name": "BMW M2 (G87)",
+      "price": 5000000
+    },
+    {
+      "name": "Zeekr 001",
+      "price": 5000000
+    },
+    {
+      "name": "Nissan GT-R I (Nismo)",
+      "price": 10000000
+    },
+    {
+      "name": "Toyota Land Cruiser 300",
+      "price": 20000000
+    },
+    {
+      "name": "Brabus R900 AMG GT63S",
+      "price": 30000000
+    },
+    {
+      "name": "VOLNA Nord EXP (LADA Niva 6x6)",
+      "price": 2500000
+    },
+    {
+      "name": "Audi RS3 (8Y)",
+      "price": 3500000
+    },
+    {
+      "name": "Porsche 911 Turbo Brabus (Rossler Mirage Turbo Brutus)",
+      "price": 12000000
+    },
+    {
+      "name": "Audi RS6 (C8) Mansory",
+      "price": 13000000
+    },
+    {
+      "name": "Bentley Flying Spur Mansory",
+      "price": 20000000
+    },
+    {
+      "name": "Brabus Crawler 4x4",
+      "price": 30000000
+    },
+    {
+      "name": "Праздничный ГАЗ-1945*",
+      "price": 3000000
+    },
+    {
+      "name": "Daewoo Matiz (Новогодний)",
+      "price": 20000000
+    },
+    {
+      "name": "Новогодняя игрушка Москвич",
+      "price": 2000000
+    },
+    {
+      "name": "Volvo Crimson Knight",
+      "price": 50000000
+    },
+    {
+      "name": "Mercedes-Benz Zetros 8x8",
+      "price": 40000000
+    },
+    {
+      "name": "Peterbilt 389",
+      "price": 30000000
+    },
+    {
+      "name": "Tesla Semi",
+      "price": 30000000
+    },
+    {
+      "name": "Scania R730",
+      "price": 8000000
+    },
+    {
+      "name": "Scania R700",
+      "price": 6000000
+    },
+    {
+      "name": "Mercedes-Benz E-Actros",
+      "price": 7000000
+    },
+    {
+      "name": "Man TGS (41.640 8x8)",
+      "price": 7000000
+    },
+    {
+      "name": "Mercedes-Benz Actros SLT",
+      "price": 6000000
+    },
+    {
+      "name": "Mercedes-Benz Malpool",
+      "price": 4000000
+    },
+    {
+      "name": "Праздничный Урал Next",
+      "price": 4000000
+    },
+    {
+      "name": "КамАЗ 54901",
+      "price": 3000000
+    },
+    {
+      "name": "Mercedes-Benz Actros 1863",
+      "price": 3000000
+    },
+    {
+      "name": "Volvo VLN 780",
+      "price": 3000000
+    },
+    {
+      "name": "Volvo FH16",
+      "price": 3000000
+    },
+    {
+      "name": "BMW R75",
+      "price": 2000000
+    },
+    {
+      "name": "Daewoo Matiz",
+      "price": 1500000
+    },
+    {
+      "name": "Ducati 1199 Panigale",
+      "price": 3500000
+    },
+    {
+      "name": "Infiniti fx45",
+      "price": 5000000
+    },
+    {
+      "name": "LADA Kalina (I)",
+      "price": 2000000
+    },
+    {
+      "name": "LADA Vesta",
+      "price": 5000000
+    },
+    {
+      "name": "LADA Vesta Cross",
+      "price": 5000000
+    },
+    {
+      "name": "LADA Xray",
+      "price": 5000000
+    },
+    {
+      "name": "Lincoln Town Car I",
+      "price": 2000000
+    },
+    {
+      "name": "Mercedes-Benz S600 (W140)",
+      "price": 3000000
+    },
+    {
+      "name": "Mercedes-Benz S600 (W220)",
+      "price": 5000000
+    },
+    {
+      "name": "Mercedes-Benz Vario (п)",
+      "price": 2000000
+    },
+    {
+      "name": "Toyota HiAce H100",
+      "price": 2000000
+    },
+    {
+      "name": "Toyota Land Cruiser (2012)",
+      "price": 3500000
+    },
+    {
+      "name": "Volkswagen T4",
+      "price": 2500000
+    },
+    {
+      "name": "ВАЗ 2110",
+      "price": 500000
+    },
+    {
+      "name": "ВАЗ 2112",
+      "price": 500000
+    },
+    {
+      "name": "ВАЗ 2114",
+      "price": 500000
+    },
+    {
+      "name": "ВАЗ 2115",
+      "price": 500000
+    },
+    {
+      "name": "ГАЗ 21",
+      "price": 2000000
+    },
+    {
+      "name": "ГАЗ 24-10",
+      "price": 3000000
+    },
+    {
+      "name": "ГАЗ 31105",
+      "price": 500000
+    },
+    {
+      "name": "ГАЗ М20",
+      "price": 2000000
+    },
+    {
+      "name": "ЗИЛ-130 (п)",
+      "price": 3000000
+    },
+    {
+      "name": "РАФ 2203",
+      "price": 500000
+    },
+    {
+      "name": "УАЗ 3160",
+      "price": 500000
+    },
+    {
+      "name": "BMW M5CS (F90)",
+      "price": 30000000
+    },
+    {
+      "name": "BMW XM",
+      "price": 20000000
+    },
+    {
+      "name": "BMW M8 (F91)",
+      "price": 3500000
+    },
+    {
+      "name": "BMW I4 (G26)",
+      "price": 3500000
+    },
+    {
+      "name": "Mercedes-Benz Maybach GLS 600",
+      "price": 30000000
+    },
+    {
+      "name": "Mercedes-Benz AMG One",
+      "price": 25000000
+    },
+    {
+      "name": "Mercedes-Benz AMG GT (I)",
+      "price": 20000000
+    },
+    {
+      "name": "Mercedes-Benz C43 AMG (W206)",
+      "price": 4000000
+    },
+    {
+      "name": "Mercedes-Benz S63 Coupe AMG",
+      "price": 3500000
+    },
+    {
+      "name": "Mercedes-Benz GLC 43 (C254)",
+      "price": 3500000
+    },
+    {
+      "name": "Porsche Taycan Turbo S (Rossler Taran Turbo S)",
+      "price": 30000000
+    },
+    {
+      "name": "Bugatti Chiron (I)",
+      "price": 25000000
+    },
+    {
+      "name": "Porsche 911 Targa 4S (992) (Rossler Mirage Targa 4S VII)",
+      "price": 3500000
+    },
+    {
+      "name": "Bentley Continental GT (II)",
+      "price": 3500000
+    },
+    {
+      "name": "Audi Sport Quattro S1",
+      "price": 2000000
+    },
+    {
+      "name": "Ford GT II",
+      "price": 15000000
+    },
+    {
+      "name": "Tesla Model X",
+      "price": 25000000
+    },
+    {
+      "name": "Tesla Model Y",
+      "price": 4000000
+    },
+    {
+      "name": "Harley Davidson XL883N",
+      "price": 2500000
+    },
+    {
+      "name": "Ferrari SF90 Stradale",
+      "price": 20000000
+    },
+    {
+      "name": "Ferrari Purosangue",
+      "price": 20000000
+    },
+    {
+      "name": "Lamborghini Muercielago",
+      "price": 3500000
+    },
+    {
+      "name": "Ducati Panigale ECO PRO",
+      "price": 3500000
+    },
+    {
+      "name": "Tesla Cybertruck",
+      "price": 30000000
+    },
+    {
+      "name": "BMW M5 G90",
+      "price": 30000000
+    },
+    {
+      "name": "BMW i8",
+      "price": 4000000
+    },
+    {
+      "name": "Dodge Charger Daytona",
+      "price": 2500000
+    },
+    {
+      "name": "Koenigsegg Gemera",
+      "price": 25000000
+    },
+    {
+      "name": "Zenvo TSR-S",
+      "price": 3500000
+    },
+    {
+      "name": "SAAB 92HK (Покраска: Скуби-Ду)",
+      "price": 5000000
+    },
+    {
+      "name": "Неизвестные цвета (для всех машин, кроме велика)",
+      "price": 1000000
+    }
+  ],
+  "skins": [
+    {
+      "name": "Билли Пулемёт",
+      "price": 10000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Маргарет",
+      "price": 8000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Сплит",
+      "price": 7000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Апекс",
+      "price": 7000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Нитра",
+      "price": 6000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Джинкс",
+      "price": 6000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Агата",
+      "price": 5000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Клелия",
+      "price": 3000000,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Анора",
+      "price": 5000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Шофер Ж",
+      "price": 4500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Шофер М",
+      "price": 4500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Бьянка",
+      "price": 4000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Клаус",
+      "price": 3500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Эмилия",
+      "price": 2500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Магнум",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Таксист",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Таксистка",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Фанат БМВ",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Фанатка БМВ",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Уолтер",
+      "price": 1500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Диана",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Спенсер",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Дино",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Тонино",
+      "price": 3000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Беретта",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Сол",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Вероника",
+      "price": 599999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Август",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Эльза",
+      "price": 499999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Дориан",
+      "price": 1500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Ванесса",
+      "price": 499999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Антонио",
+      "price": 399999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Бруно",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Зеро",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Нокс",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Дрифтер.М",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Дрифтер.Ж",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Майки",
+      "price": 199999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Юра",
+      "price": 300000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Каспер",
+      "price": 500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Китти",
+      "price": 500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Сайя",
+      "price": 149999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Шарп",
+      "price": 1000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Валера",
+      "price": 500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Берта",
+      "price": 300000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Дженни",
+      "price": 400000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Джонгук",
+      "price": 500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Каппо",
+      "price": 119999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Абри",
+      "price": 119999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Брайан Коннер",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Мия Торрето",
+      "price": 2000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Дальнобойщик",
+      "price": 500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Дальнобойщица",
+      "price": 500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Олдмани",
+      "price": 500000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Хантер",
+      "price": 800000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Аврора",
+      "price": 800000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Беверли",
+      "price": 200000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Джон",
+      "price": 200000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Эдвард",
+      "price": 99999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Белла",
+      "price": 99999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Адриано",
+      "price": 50000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Эми",
+      "price": 49999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Дана",
+      "price": 200000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Давид",
+      "price": 49999,
+      "category": "⚫ Скины из наборов",
+      "tentative": true
+    },
+    {
+      "name": "Шурик",
+      "price": 1500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Нина",
+      "price": 1500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Снежная Королева",
+      "price": 500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Кощей",
+      "price": 350000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Гонщик Парень",
+      "price": 1000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Гонщица Девушка",
+      "price": 1000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Дед Мороз (2022)",
+      "price": 1500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Снегурочка",
+      "price": 1500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Чертовка",
+      "price": 8000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Дракула",
+      "price": 2000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Космо Парень",
+      "price": 1500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Космо Девушка",
+      "price": 1500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Клоун Парень",
+      "price": 1500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Клоун Девушка",
+      "price": 1500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "23 Февраля Защитник",
+      "price": 10000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "23 Февраля Рыбак",
+      "price": 10000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "23 Февраля Модник",
+      "price": 10000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "23 Февраля Защитница",
+      "price": 10000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "23 Февраля Рыбачка",
+      "price": 10000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "23 Февраля Модница",
+      "price": 10000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Падший Ангел Ж",
+      "price": 2000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Падший Ангел М",
+      "price": 2000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Купидон Ж",
+      "price": 8000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Купидон М",
+      "price": 8000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Гном Ж",
+      "price": 500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Гном М",
+      "price": 500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Господин Мороз",
+      "price": 500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Госпожа Мороз",
+      "price": 500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Мидас",
+      "price": 300000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Аврелия",
+      "price": 300000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Боксер Красный",
+      "price": 7000000,
+      "category": "🥊 Боксёры"
+    },
+    {
+      "name": "Боксер Синий",
+      "price": 7000000,
+      "category": "🥊 Боксёры"
+    },
+    {
+      "name": "Франц Драмех",
+      "price": 5000000,
+      "category": "👤 Джентельмены"
+    },
+    {
+      "name": "Крис Эвангелу",
+      "price": 15000000,
+      "category": "👤 Джентельмены"
+    },
+    {
+      "name": "Колин Фаррелл",
+      "price": 30000000,
+      "category": "👤 Джентельмены"
+    },
+    {
+      "name": "Чиди Аджуфо",
+      "price": 20000000,
+      "category": "👤 Джентельмены"
+    },
+    {
+      "name": "Триггер",
+      "price": 8000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Мрак",
+      "price": 8000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Кен",
+      "price": 5000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Тяжелый Люкс Ж",
+      "price": 5000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Тяжелый Люкс М",
+      "price": 5000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Рико",
+      "price": 5000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Барби",
+      "price": 5000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Изольда",
+      "price": 5000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Франко",
+      "price": 5000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Элена",
+      "price": 5000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Амалия",
+      "price": 4000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Белладонна",
+      "price": 4000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Майя",
+      "price": 9000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Антей",
+      "price": 7000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Дива",
+      "price": 5000000,
+      "category": "🟡 Легендарные",
+      "tentative": true
+    },
+    {
+      "name": "Гертруд",
+      "price": 3500000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Мира",
+      "price": 4000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Паук",
+      "price": 3000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Борис",
+      "price": 3000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Стелла",
+      "price": 3000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Валерия",
+      "price": 2500000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Неко-Тян",
+      "price": 5000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Блатной",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие",
+      "tentative": true
+    },
+    {
+      "name": "Одуванчик",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие",
+      "tentative": true
+    },
+    {
+      "name": "Альтушка",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Лия",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Краш",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие",
+      "tentative": true
+    },
+    {
+      "name": "Козырь",
+      "price": 700000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Рэйвен",
+      "price": 1500000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Киран",
+      "price": 1500000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Мелани",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Персей",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Драйвер",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Райз",
+      "price": 2000000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Феникс",
+      "price": 1500000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Эхо",
+      "price": 1500000,
+      "category": "🟣 Крайне редкие"
+    },
+    {
+      "name": "Офник",
+      "price": 1500000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Офница",
+      "price": 1500000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Пинк",
+      "price": 800000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Вика",
+      "price": 800000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Лилия",
+      "price": 1000000,
+      "category": "🔵 Редкие",
+      "tentative": true
+    },
+    {
+      "name": "Мери",
+      "price": 1000000,
+      "category": "🔵 Редкие",
+      "tentative": true
+    },
+    {
+      "name": "Малиновец",
+      "price": 1000000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Стиляга",
+      "price": 1000000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Скуф",
+      "price": 800000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Миллениум М",
+      "price": 700000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Миллениум Ж",
+      "price": 700000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Леопард",
+      "price": 600000,
+      "category": "🔵 Редкие"
+    },
+    {
+      "name": "Кортни",
+      "price": 500000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Приезжая",
+      "price": 300000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Ромашка",
+      "price": 300000,
+      "category": "⚪ Обычные",
+      "tentative": true
+    },
+    {
+      "name": "Француженка",
+      "price": 300000,
+      "category": "⚪ Обычные",
+      "tentative": true
+    },
+    {
+      "name": "Дворовая",
+      "price": 300000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Тигр",
+      "price": 300000,
+      "category": "⚪ Обычные",
+      "tentative": true
+    },
+    {
+      "name": "Дворовой",
+      "price": 300000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Шустрый",
+      "price": 500000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Приезжий",
+      "price": 300000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Лагуна",
+      "price": 200000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Эйприл",
+      "price": 250000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Ник",
+      "price": 200000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Шемис",
+      "price": 200000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Абибас",
+      "price": 200000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Дженнифер",
+      "price": 200000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Джинс",
+      "price": 200000,
+      "category": "⚪ Обычные"
+    },
+    {
+      "name": "Гномик",
+      "price": 500000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Анимешница",
+      "price": 169999,
+      "category": "⚪ Обычные"
+    }
+  ],
+  "houses": {
+    "fixed": [
+      {
+        "name": "Дом рыбака / Элитный",
+        "price": 20000000,
+        "note": "Элитное жильё во всей области"
+      },
+      {
+        "name": "Элитный (гаражного типа)",
+        "price": 13000000
+      },
+      {
+        "name": "Высокий класс — пгт. Бусаево / Верхнее Заречное",
+        "price": 9000000
+      }
+    ],
+    "rule": {
+      "name": "Средний/низкий класс + избушки (Бусаево, Нижнее Заречное)",
+      "formula": "gosCena * 3"
+    }
+  },
+  "businesses": [
+    {
+      "cat": "Крупные бизнесы",
+      "name": "Автосалон импортный",
+      "price": 350000000
+    },
+    {
+      "cat": "Крупные бизнесы",
+      "name": "Автосалон отечественный",
+      "price": 350000000
+    },
+    {
+      "cat": "Крупные бизнесы",
+      "name": "Казино",
+      "price": 350000000
+    },
+    {
+      "cat": "Крупные бизнесы",
+      "name": "Кинотеатр",
+      "price": 135000000
+    },
+    {
+      "cat": "Крупные бизнесы",
+      "name": "Ночной клуб",
+      "price": 40000000
+    },
+    {
+      "cat": "Крупные бизнесы",
+      "name": "Центр недвижимости",
+      "price": 70000000
+    },
+    {
+      "cat": "Крупные бизнесы",
+      "name": "Фитнес",
+      "price": 75000000
+    },
+    {
+      "cat": "Банки",
+      "name": "Руб-банкъ",
+      "price": 200000000
+    },
+    {
+      "cat": "Банки",
+      "name": "Вектор-банк",
+      "price": 150000000
+    },
+    {
+      "cat": "Банки",
+      "name": "Банк \"Банка\"",
+      "price": 150000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Фиалка",
+      "price": 25000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Копейка",
+      "price": 15000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Каприз",
+      "price": 25000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Продукты 777",
+      "price": 35000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Семейный",
+      "price": 45000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Пенсионный",
+      "price": 45000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "BEERжа",
+      "price": 45000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Вираж",
+      "price": 35000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Сельпо",
+      "price": 35000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Ласточка",
+      "price": 25000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Салют",
+      "price": 30000000
+    },
+    {
+      "cat": "Магазины 24/7",
+      "name": "Продукты",
+      "price": 25000000
+    },
+    {
+      "cat": "Сотовые салоны",
+      "name": "Батрезвон",
+      "price": 30000000
+    },
+    {
+      "cat": "Сотовые салоны",
+      "name": "GSM",
+      "price": 25000000
+    },
+    {
+      "cat": "Сотовые салоны",
+      "name": "Лытвзон",
+      "price": 35000000
+    },
+    {
+      "cat": "Сотовые салоны",
+      "name": "Южный SIMпатяга",
+      "price": 35000000
+    },
+    {
+      "cat": "Магазины одежды",
+      "name": "Базарный",
+      "price": 40000000
+    },
+    {
+      "cat": "Магазины одежды",
+      "name": "Одежда из Европы",
+      "price": 25000000
+    },
+    {
+      "cat": "Магазины одежды",
+      "name": "Планета Секонд-хенд",
+      "price": 25000000
+    },
+    {
+      "cat": "Магазины одежды",
+      "name": "Фраерок и Фифочка",
+      "price": 35000000
+    },
+    {
+      "cat": "Магазины одежды",
+      "name": "Ветеран",
+      "price": 35000000
+    },
+    {
+      "cat": "Магазины одежды",
+      "name": "Карусель",
+      "price": 40000000
+    },
+    {
+      "cat": "Столовые",
+      "name": "Самурай",
+      "price": 45000000
+    },
+    {
+      "cat": "Столовые",
+      "name": "За ПивCom",
+      "price": 45000000
+    },
+    {
+      "cat": "Столовые",
+      "name": "У Лёшеньки",
+      "price": 35000000
+    },
+    {
+      "cat": "Столовые",
+      "name": "Вхламинго",
+      "price": 40000000
+    },
+    {
+      "cat": "Столовые",
+      "name": "Beerлога",
+      "price": 45000000
+    },
+    {
+      "cat": "Столовые",
+      "name": "Первая пекарня",
+      "price": 45000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №7",
+      "price": 40000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №47",
+      "price": 40000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №52",
+      "price": 40000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №133",
+      "price": 35000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №134",
+      "price": 35000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №105",
+      "price": 25000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №115",
+      "price": 25000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №152",
+      "price": 35000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №62",
+      "price": 40000000
+    },
+    {
+      "cat": "АЗС",
+      "name": "АЗС №93",
+      "price": 50000000
+    }
+  ],
+  "phones": {
+    "rules": [
+      {
+        "pattern": "XXXX (4 одинаковые цифры)",
+        "price": 50000000
+      },
+      {
+        "pattern": "XXXXXX (6 одинаковых цифр)",
+        "price": 20000000
+      }
+    ]
+  },
+  "plates": [],
+  "skin_rules": {
+    "Наборы": "госцена; если ниже 200к — ×2",
+    "Эксклюзивные": "праздничные / ивентовые; только продаваемые",
+    "Легендарные (коробки)": "4 199 999 госцена",
+    "Крайне редкие (коробки)": "1 799 999 госцена",
+    "Редкие (коробки)": "1 199 999 госцена",
+    "Обычные (коробки)": "349 999 госцена",
+    "Магазины одежды": "цена из магазина",
+    "Ивентовые непродаваемые": "НЕ считаются",
+    "tentative": "у скинов с tentative=true цена примерная — оповестить пользователя если появится у игрока"
+  }
+}
