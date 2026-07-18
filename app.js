@@ -132,7 +132,7 @@ async function init() {
   editions.forEach(e => {
     const opt = document.createElement('option');
     opt.value = e.file;
-    opt.textContent = `№${e.number}`;
+    opt.textContent = e.label || `№${e.number}`;
     sel.appendChild(opt);
   });
   sel.addEventListener('change', async () => {

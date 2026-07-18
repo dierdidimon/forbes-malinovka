@@ -1,0 +1,8 @@
+{
+  "number": "srv2",
+  "title": "2 сервер (июль)",
+  "server": 2,
+  "base": "bazy_july.json",
+  "date": "июль",
+  "players": []
+}

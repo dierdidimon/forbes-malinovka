@@ -1,5 +1,8 @@
 {
   "editions": [
-    { "number": 18, "file": "redaktsiya_18.json" }
+    { "label": "1 сервер — Редакция №18", "file": "redaktsiya_18.json" },
+    { "label": "2 сервер (июль)", "file": "server2_july.json" },
+    { "label": "3 сервер (июль)", "file": "server3_july.json" },
+    { "label": "4 сервер (июль)", "file": "server4_july.json" }
   ]
 }
