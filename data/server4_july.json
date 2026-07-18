@@ -4,5 +4,175 @@
   "server": 4,
   "base": "bazy_july.json",
   "date": "июль",
-  "players": []
+  "players": [
+    {
+      "nick": "Izabella_Memento",
+      "server": 4,
+      "cars": [
+        {
+          "type": "std",
+          "name": "Велосипед Giant",
+          "plate": "—",
+          "gosCena": 9999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Challenger SRT Demon III",
+          "plate": "X739HO",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLE63 (C167)",
+          "plate": "T527OK",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "Dodge Charger (VII)",
+          "plate": "E678MK",
+          "gosCena": 1599999,
+          "tuning": 833000
+        },
+        {
+          "type": "std",
+          "name": "Ford F100 1966",
+          "plate": "K623EA",
+          "gosCena": 339999,
+          "tuning": 83800
+        },
+        {
+          "type": "fix",
+          "name": "VOLNA Nord EXP (LADA Niva 6x6)",
+          "plate": "P438YA",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "A291EH",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Zetros 8x8",
+          "plate": "B192TC",
+          "fixPrice": 40000000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R700",
+          "plate": "Y234MA",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLC 43 (C254)",
+          "plate": "Y291XA",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz X-class (I)",
+          "plate": "M815PB",
+          "gosCena": 1599999,
+          "tuning": 861750
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz C63 W204",
+          "plate": "X837HK",
+          "gosCena": 1099999,
+          "tuning": 1014250
+        },
+        {
+          "type": "std",
+          "name": "Jaguar XK (II)",
+          "plate": "M879XP",
+          "gosCena": 2499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Honda CBR 500R",
+          "plate": "K635BO",
+          "gosCena": 2499999,
+          "tuning": 707500
+        },
+        {
+          "type": "std",
+          "name": "Volvo Polestar (II)",
+          "plate": "H087AO",
+          "gosCena": 1599999,
+          "tuning": 125000
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "B697OM",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Jaguar XF RS (II)",
+          "plate": "C759EH",
+          "gosCena": 1599999,
+          "tuning": 160000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Turbo Brabus (Rossler Mirage Turbo Brutus)",
+          "plate": "A101YE",
+          "fixPrice": 12000000,
+          "platePrice": 2500000
+        },
+        {
+          "type": "std",
+          "name": "Porsche 959 #1",
+          "plate": "M621EA",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Porsche 959 #2",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Porsche Panamera I",
+          "plate": "P035EC",
+          "gosCena": 1599999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Suzuki Address 110",
+          "plate": "—",
+          "gosCena": 23999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Урал Next",
+          "plate": "B098AH",
+          "gosCena": 3598999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом высокого класса",
+          "price": 9000000
+        }
+      ],
+      "skins": [],
+      "businesses": [],
+      "phones": []
+    }
+  ]
 }
