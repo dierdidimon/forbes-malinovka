@@ -33,6 +33,10 @@
       "price": 30000000
     },
     {
+      "name": "Mercedes Benz G500 II (W463) (п) [ВРЕМЕННО по гос — сертификаты]",
+      "price": 40000000
+    },
+    {
       "name": "BMW M5 IV (E60) (п)",
       "price": 40000000
     },
@@ -61,7 +65,7 @@
       "price": 40000000
     },
     {
-      "name": "Новогодний Kawasaki Z400FX*",
+      "name": "Новогодний Kawasaki Z400FX",
       "price": 4000000
     },
     {
@@ -117,7 +121,7 @@
       "price": 22000000
     },
     {
-      "name": "Audi R8 (4S) (п)",
+      "name": "Audi R8 II (4S) (п)",
       "price": 28000000
     },
     {
@@ -177,7 +181,7 @@
       "price": 1500000
     },
     {
-      "name": "Mercedes-Benz CL 65 AMG (C216)",
+      "name": "Mercedes-Benz CL 65",
       "price": 2000000
     },
     {
@@ -189,7 +193,7 @@
       "price": 3000000
     },
     {
-      "name": "BMW X6M (G06)",
+      "name": "BMW X6M II",
       "price": 6000000
     },
     {
@@ -197,7 +201,7 @@
       "price": 8000000
     },
     {
-      "name": "Audi RS7 (4K)",
+      "name": "Audi RS7",
       "price": 12000000
     },
     {
@@ -265,7 +269,7 @@
       "price": 17000000
     },
     {
-      "name": "Mercedes-Benz Brabus 900 Rocket",
+      "name": "Mercedes Benz Brabus 900 Rocket",
       "price": 30000000
     },
     {
@@ -273,7 +277,7 @@
       "price": 6000000
     },
     {
-      "name": "Mercedes-Benz C 250 (W204)",
+      "name": "Mercedes-Benz C250 (W204)",
       "price": 1500000
     },
     {
@@ -321,7 +325,7 @@
       "price": 15000000
     },
     {
-      "name": "Mercedes-Benz Brabus P900 Pickup",
+      "name": "Mercedes-Benz Brabus P900 Rocket Pickup",
       "price": 25000000
     },
     {
@@ -397,8 +401,48 @@
       "price": 20000000
     },
     {
-      "name": "Новогодняя игрушка Москвич",
+      "name": "Новогодняя игрушка Москвич*",
       "price": 2000000
+    },
+    {
+      "name": "BMW M1 Malini Sport",
+      "price": 3000000
+    },
+    {
+      "name": "Праздничный МАЙ-21",
+      "price": 6000000
+    },
+    {
+      "name": "BMW M3 Touring (G80)",
+      "price": 9000000
+    },
+    {
+      "name": "BMW 7-series (G70)",
+      "price": 12000000
+    },
+    {
+      "name": "BMW X7 M50i (G07)",
+      "price": 25000000
+    },
+    {
+      "name": "Hummer EV",
+      "price": 25000000
+    },
+    {
+      "name": "Porsche Panamera Turbo (III)",
+      "price": 20000000
+    },
+    {
+      "name": "Ferrari Monza SP",
+      "price": 30000000
+    },
+    {
+      "name": "Cadillac Escalade V",
+      "price": 30000000
+    },
+    {
+      "name": "Mercedes-Benz Arocs",
+      "price": 45000000
     },
     {
       "name": "Volvo Crimson Knight",
@@ -415,6 +459,10 @@
     {
       "name": "Tesla Semi",
       "price": 30000000
+    },
+    {
+      "name": "Grand Meteor V1",
+      "price": 10000000
     },
     {
       "name": "Scania R730",
@@ -437,11 +485,15 @@
       "price": 6000000
     },
     {
+      "name": "Mercedes-Benz Actros (новый)",
+      "price": 4000000
+    },
+    {
       "name": "Mercedes-Benz Malpool",
       "price": 4000000
     },
     {
-      "name": "Праздничный Урал Next",
+      "name": "Праздничный Урал Next*",
       "price": 4000000
     },
     {
@@ -489,7 +541,7 @@
       "price": 5000000
     },
     {
-      "name": "LADA Xray",
+      "name": "LADA XRay",
       "price": 5000000
     },
     {
@@ -553,7 +605,7 @@
       "price": 2000000
     },
     {
-      "name": "ЗИЛ-130 (п)",
+      "name": "ЗИЛ 130 (п)",
       "price": 3000000
     },
     {
@@ -613,11 +665,11 @@
       "price": 25000000
     },
     {
-      "name": "Porsche 911 Targa 4S (992) (Rossler Mirage Targa 4S VII)",
+      "name": "Bentley Continental GT (II)",
       "price": 3500000
     },
     {
-      "name": "Bentley Continental GT (II)",
+      "name": "Porsche 911 Targa 4S (992) (Rossler Mirage Targa 4S VII)",
       "price": 3500000
     },
     {
@@ -649,11 +701,11 @@
       "price": 20000000
     },
     {
-      "name": "Lamborghini Muercielago",
+      "name": "Ducati Panigale ECO PRO",
       "price": 3500000
     },
     {
-      "name": "Ducati Panigale ECO PRO",
+      "name": "Lamborghini Murcielago",
       "price": 3500000
     },
     {
@@ -665,12 +717,12 @@
       "price": 30000000
     },
     {
-      "name": "BMW i8",
-      "price": 4000000
-    },
-    {
       "name": "Dodge Charger Daytona",
       "price": 2500000
+    },
+    {
+      "name": "BMW i8",
+      "price": 4000000
     },
     {
       "name": "Koenigsegg Gemera",
@@ -685,11 +737,51 @@
       "price": 5000000
     },
     {
-      "name": "Неизвестные цвета (для всех машин, кроме велика)",
-      "price": 1000000
+      "name": "Rolls-Royce Ghost Mansory",
+      "price": 30000000
+    },
+    {
+      "name": "Aston Martin DB11",
+      "price": 4000000
+    },
+    {
+      "name": "Porsche Cayenne Turbo GT",
+      "price": 30000000
+    },
+    {
+      "name": "Porsche 918 Spyder",
+      "price": 30000000
+    },
+    {
+      "name": "Porsche 911 Compact",
+      "price": 5000000
+    },
+    {
+      "name": "Porsche Macan EV",
+      "price": 5000000
     }
   ],
   "skins": [
+    {
+      "name": "Сальваторе",
+      "price": 15000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Фрэнки",
+      "price": 15000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Мор",
+      "price": 12000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Мара",
+      "price": 12000000,
+      "category": "⚫ Скины из наборов"
+    },
     {
       "name": "Билли Пулемёт",
       "price": 10000000,
@@ -723,6 +815,26 @@
     {
       "name": "Агата",
       "price": 5000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Ребекка",
+      "price": 5000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Декстер",
+      "price": 5000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Феликс",
+      "price": 3000000,
+      "category": "⚫ Скины из наборов"
+    },
+    {
+      "name": "Алиса",
+      "price": 3000000,
       "category": "⚫ Скины из наборов"
     },
     {
@@ -1176,6 +1288,16 @@
       "category": "⭐ Эксклюзивные"
     },
     {
+      "name": "Эдуард",
+      "price": 2000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
+      "name": "Маргарита",
+      "price": 2000000,
+      "category": "⭐ Эксклюзивные"
+    },
+    {
       "name": "Боксер Красный",
       "price": 7000000,
       "category": "🥊 Боксёры"
@@ -1204,6 +1326,26 @@
       "name": "Чиди Аджуфо",
       "price": 20000000,
       "category": "👤 Джентельмены"
+    },
+    {
+      "name": "Бронислав",
+      "price": 8500000,
+      "category": "🎰 БАГ"
+    },
+    {
+      "name": "Руби",
+      "price": 8500000,
+      "category": "🎰 БАГ"
+    },
+    {
+      "name": "Лада",
+      "price": 5000000,
+      "category": "🎰 БАГ"
+    },
+    {
+      "name": "Архип",
+      "price": 5000000,
+      "category": "🎰 БАГ"
     },
     {
       "name": "Триггер",
@@ -1278,12 +1420,41 @@
     {
       "name": "Дива",
       "price": 5000000,
-      "category": "🟡 Легендарные",
-      "tentative": true
+      "category": "🟡 Легендарные"
     },
     {
       "name": "Гертруд",
       "price": 3500000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Гидеон",
+      "price": 13000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Лилит",
+      "price": 13000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Акира",
+      "price": 13000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Роза",
+      "price": 13000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Картер",
+      "price": 21000000,
+      "category": "🟡 Легендарные"
+    },
+    {
+      "name": "Злата",
+      "price": 21000000,
       "category": "🟡 Легендарные"
     },
     {
@@ -1533,36 +1704,6 @@
       "name": "Джинс",
       "price": 200000,
       "category": "⚪ Обычные"
-    },
-    {
-      "name": "Гномик",
-      "price": 500000,
-      "category": "⭐ Эксклюзивные"
-    },
-    {
-      "name": "Анимешница",
-      "price": 169999,
-      "category": "⚪ Обычные"
-    },
-    {
-      "name": "Изя Кайцман",
-      "price": 299999,
-      "category": "⚫ Скины из наборов"
-    },
-    {
-      "name": "Вор в Законе",
-      "price": 174999,
-      "category": "⚫ Скины из наборов"
-    },
-    {
-      "name": "Скейтер",
-      "price": 119999,
-      "category": "⚫ Скины из наборов"
-    },
-    {
-      "name": "Мойша",
-      "price": 449999,
-      "category": "⚫ Скины из наборов"
     }
   ],
   "houses": {
@@ -1840,7 +1981,6 @@
       }
     ]
   },
-  "plates": [],
   "skin_rules": {
     "Наборы": "госцена; если ниже 200к — ×2",
     "Эксклюзивные": "праздничные / ивентовые; только продаваемые",
@@ -1851,5 +1991,6 @@
     "Магазины одежды": "цена из магазина",
     "Ивентовые непродаваемые": "НЕ считаются",
     "tentative": "у скинов с tentative=true цена примерная — оповестить пользователя если появится у игрока"
-  }
+  },
+  "note": "Июльская база (серверы 2-3-4). Прайс от 10.06.2026."
 }
