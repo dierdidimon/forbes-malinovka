@@ -173,6 +173,65 @@
       "skins": [],
       "businesses": [],
       "phones": []
+    },
+    {
+      "nick": "Kot_Kotovich",
+      "server": 4,
+      "cars": [
+        {
+          "type": "fix",
+          "name": "ГАЗ 21",
+          "plate": "T168MB",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Ford GT II",
+          "plate": "Y725KX",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "X159AM",
+          "fixPrice": 35000000
+        },
+        {
+          "type": "fix",
+          "name": "Peterbilt 389",
+          "plate": "C130HO",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Zetros 8x8",
+          "plate": "T752AB",
+          "fixPrice": 40000000
+        },
+        {
+          "type": "std",
+          "name": "Porsche 959",
+          "plate": "A941PY",
+          "gosCena": 1099999,
+          "tuning": 689250
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari Monza SP",
+          "plate": "—",
+          "fixPrice": 30000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 149999
+        }
+      ],
+      "skins": [],
+      "businesses": [],
+      "phones": [],
+      "incomplete": "Не подтверждены: скины/бизнес/телефон"
     }
   ]
 }
