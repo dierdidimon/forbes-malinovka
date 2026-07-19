@@ -575,6 +575,114 @@
       ],
       "businesses": [],
       "phones": []
+    },
+    {
+      "nick": "Fenrin_Starfall",
+      "server": 3,
+      "cars": [
+        {
+          "type": "std",
+          "name": "BMW M5 IV (E60) [Обычный]",
+          "plate": "M005EH",
+          "gosCena": 2499999,
+          "tuning": 1838333,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi A4 allroad quattro",
+          "plate": "A002EE",
+          "fixPrice": 1000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 III (E46)",
+          "plate": "B342XP",
+          "fixPrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz C43 AMG (W206)",
+          "plate": "X305YO",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Ford GT II",
+          "plate": "A001EP",
+          "fixPrice": 15000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Ferrari SF90 Stradale",
+          "plate": "T090TT",
+          "fixPrice": 20000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M4 (G82)",
+          "plate": "H004AT",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW I4 (G26)",
+          "plate": "H001AT",
+          "fixPrice": 3500000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW XM",
+          "plate": "K100YK",
+          "fixPrice": 20000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "B714CY",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Zeekr 001",
+          "plate": "X001AX",
+          "fixPrice": 5000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLC 43 (C254)",
+          "plate": "H631OM",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "MINI Cooper S II",
+          "plate": "H905OM",
+          "gosCena": 499999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 1899999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Шофер М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
     }
   ]
 }
