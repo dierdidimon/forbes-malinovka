@@ -683,6 +683,207 @@
       ],
       "businesses": [],
       "phones": []
+    },
+    {
+      "nick": "Barash_Barashev",
+      "server": 3,
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Toyota LC200 (2015) (п)",
+          "plate": "K015RU",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz CLS 63 AMG",
+          "plate": "B023OY",
+          "fixPrice": 22000000
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Challenger SRT Demon III",
+          "plate": "M228OE",
+          "fixPrice": 5000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "РАФ 2203 (п)",
+          "plate": "H316OC",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "E111KX",
+          "fixPrice": 25000000,
+          "platePrice": 4000000
+        },
+        {
+          "type": "std",
+          "name": "Toyota Alphard (II)",
+          "plate": "A197ET",
+          "gosCena": 949999,
+          "tuning": 308750
+        },
+        {
+          "type": "std",
+          "name": "BMW 735Li (E32)",
+          "plate": "B407OM",
+          "gosCena": 339999,
+          "tuning": 45000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5CS (F90)",
+          "plate": "B999OY",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5CS (F90)",
+          "plate": "C888KP",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG GT (I)",
+          "plate": "X003XX",
+          "fixPrice": 20000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW XM",
+          "plate": "O080BO",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "std",
+          "name": "Renault Twizy (I)",
+          "plate": "H614YT",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "P333PP",
+          "fixPrice": 35000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "E999EE",
+          "fixPrice": 35000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "P429OC",
+          "gosCena": 359999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "SAAB 92HK (Покраска: Скуби-Ду)",
+          "plate": "B634XP",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "SAAB 92HK",
+          "plate": "C643EB",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "SAAB 92HK",
+          "plate": "B640MY",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Volvo Crimson Knight",
+          "plate": "H164KB",
+          "fixPrice": 50000000
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Nord URB",
+          "plate": "C580TK",
+          "gosCena": 299999,
+          "tuning": 75000
+        },
+        {
+          "type": "std",
+          "name": "MINI Cooper S II",
+          "plate": "A715MH",
+          "gosCena": 499999,
+          "tuning": 333750
+        },
+        {
+          "type": "fix",
+          "name": "Hummer EV",
+          "plate": "B342MX",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Trident Vessel Sedan",
+          "plate": "Y709BA",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Compact",
+          "plate": "T354OC",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW X7 M50i (G07)",
+          "plate": "B593PC",
+          "fixPrice": 25000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 13000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Антей",
+          "price": 7000000
+        },
+        {
+          "name": "Акира",
+          "price": 13000000
+        },
+        {
+          "name": "Декстер",
+          "price": 5000000
+        },
+        {
+          "name": "Шурик",
+          "price": 1500000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Ласточка",
+          "price": 25000000
+        }
+      ],
+      "phones": []
     }
   ]
 }
