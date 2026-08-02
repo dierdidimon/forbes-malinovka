@@ -2011,6 +2011,206 @@
       ],
       "businesses": [],
       "phones": []
+    },
+    {
+      "nick": "Zeno_Wesker",
+      "server": 4,
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Велосипед Giant",
+          "plate": "—",
+          "fixPrice": 9999
+        },
+        {
+          "type": "std",
+          "name": "RAM 1500 TRX",
+          "plate": "C918KM",
+          "gosCena": 1599999,
+          "tuning": 448000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "C052EM",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "std",
+          "name": "АЗЛК 407",
+          "plate": "—",
+          "gosCena": 399999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz S63 Coupe AMG",
+          "plate": "E063CO",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Volvo Polestar (II)",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 1346667
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "C007EX",
+          "fixPrice": 25000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "SAAB 92HK (Покраска: Скуби-Ду)",
+          "plate": "—",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "std",
+          "name": "Aston Martin Cygnet V8 (I)",
+          "plate": "—",
+          "gosCena": 1099999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Aston Martin DB11",
+          "plate": "—",
+          "fixPrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW 7-series (G70)",
+          "plate": "A069AX",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW X7 M50i (G07)",
+          "plate": "O007OX",
+          "fixPrice": 25000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Jaguar XF RS (II)",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 1203000
+        },
+        {
+          "type": "fix",
+          "name": "Hummer EV",
+          "plate": "B952CY",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Porsche 365A",
+          "plate": "—",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Macan EV",
+          "plate": "—",
+          "fixPrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 Touring (G80)",
+          "plate": "—",
+          "fixPrice": 9000000
+        },
+        {
+          "type": "std",
+          "name": "MINI Cooper S II",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "KREWETKA Hercules 4x2",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 0
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 499999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Франко",
+          "price": 5000000
+        },
+        {
+          "name": "Эхо",
+          "price": 1500000
+        },
+        {
+          "name": "Киран",
+          "price": 1500000
+        },
+        {
+          "name": "Спенсер",
+          "price": 2000000
+        },
+        {
+          "name": "Феликс",
+          "price": 3000000
+        },
+        {
+          "name": "Мор",
+          "price": 12000000
+        },
+        {
+          "name": "Мрак",
+          "price": 8000000
+        },
+        {
+          "name": "Борис",
+          "price": 3000000
+        },
+        {
+          "name": "Сальваторе",
+          "price": 15000000
+        },
+        {
+          "name": "Архип",
+          "price": 5000000
+        },
+        {
+          "name": "Шустрый",
+          "price": 500000
+        },
+        {
+          "name": "Джонгук",
+          "price": 500000
+        },
+        {
+          "name": "Приезжий",
+          "price": 300000
+        },
+        {
+          "name": "Мидас",
+          "price": 300000
+        },
+        {
+          "name": "Шофер М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
     }
   ]
 }
