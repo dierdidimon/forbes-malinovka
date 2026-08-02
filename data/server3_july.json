@@ -2229,6 +2229,45 @@
           "price": 50000000
         }
       ]
+    },
+    {
+      "nick": "Dmitriy_Solist",
+      "server": 3,
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "C228BO",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 149999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Эдуард",
+          "price": 2000000
+        },
+        {
+          "name": "Господин Мороз",
+          "price": 500000
+        },
+        {
+          "name": "Мидас",
+          "price": 300000
+        },
+        {
+          "name": "Хантер",
+          "price": 800000
+        }
+      ],
+      "businesses": [],
+      "phones": []
     }
   ]
 }
