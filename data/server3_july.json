@@ -2268,6 +2268,100 @@
       ],
       "businesses": [],
       "phones": []
+    },
+    {
+      "nick": "Parviz_Astrov",
+      "server": 3,
+      "cars": [
+        {
+          "type": "std",
+          "name": "BMW M4 (F32)",
+          "plate": "—",
+          "gosCena": 8499999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "BMW X5 III (F15)",
+          "plate": "—",
+          "gosCena": 7198999,
+          "tuning": 3524600
+        },
+        {
+          "type": "std",
+          "name": "BMW Z4 III (G29)",
+          "plate": "—",
+          "gosCena": 7798999,
+          "tuning": 3324600
+        },
+        {
+          "type": "std",
+          "name": "Land Rover Range Rover (IV)",
+          "plate": "—",
+          "gosCena": 14398999,
+          "tuning": 7219600
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Camry VII (XV55)",
+          "plate": "K111RA",
+          "fixPrice": 700000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "M700UN",
+          "fixPrice": 25000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW S1000",
+          "plate": "—",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "std",
+          "name": "MINI Cooper S II",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 865000
+        }
+      ],
+      "houses": [],
+      "skins": [
+        {
+          "name": "Шофер М",
+          "price": 4500000
+        },
+        {
+          "name": "Сол",
+          "price": 2000000
+        },
+        {
+          "name": "Дворовая",
+          "price": 300000
+        },
+        {
+          "name": "Спенсер",
+          "price": 2000000
+        },
+        {
+          "name": "Господин Мороз",
+          "price": 500000
+        },
+        {
+          "name": "Шурик",
+          "price": 1500000
+        },
+        {
+          "name": "Шустрый",
+          "price": 500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
     }
   ]
 }
