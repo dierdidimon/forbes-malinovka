@@ -2717,6 +2717,150 @@
       ],
       "businesses": [],
       "phones": []
+    },
+    {
+      "nick": "Grek_Kapustin",
+      "server": 4,
+      "cars": [
+        {
+          "type": "fix",
+          "name": "ГАЗ 24-10",
+          "plate": "H306EX",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Peugeot 406 I",
+          "plate": "E230MB",
+          "gosCena": 189999,
+          "tuning": 144167
+        },
+        {
+          "type": "fix",
+          "name": "Lada Niva 4x4 Anti-gelik",
+          "plate": "E283KA",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Hummer H1 (Hunter Bunker I)",
+          "plate": "P951OH",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "P228AC",
+          "fixPrice": 8000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Subaru Impreza WRX STi II",
+          "plate": "H956PA",
+          "fixPrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Jeep Wrangler III (JK)",
+          "plate": "H295KT",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz 560SEL (W126)",
+          "plate": "X970PC",
+          "gosCena": 339999,
+          "tuning": 302200
+        },
+        {
+          "type": "fix",
+          "name": "КамАЗ 54901",
+          "plate": "B930EH",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Cadillac CTS-V III",
+          "plate": "X671KH",
+          "gosCena": 1099999,
+          "tuning": 500500
+        },
+        {
+          "type": "std",
+          "name": "Cadillac DeVille VII",
+          "plate": "M320HE",
+          "gosCena": 359000,
+          "tuning": 245720
+        },
+        {
+          "type": "fix",
+          "name": "Ford GT II",
+          "plate": "X285ET",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "std",
+          "name": "RAM 1500 TRX",
+          "plate": "A783BP",
+          "gosCena": 1599999,
+          "tuning": 813000
+        },
+        {
+          "type": "fix",
+          "name": "Man TGS (41.640 8x8)",
+          "plate": "H120BC",
+          "fixPrice": 7000000
+        },
+        {
+          "type": "std",
+          "name": "Toyota Tundra (II)",
+          "plate": "Y732EB",
+          "gosCena": 1599999,
+          "tuning": 875000
+        },
+        {
+          "type": "std",
+          "name": "Skoda Octavia RS (III)",
+          "plate": "K165CM",
+          "gosCena": 1599999,
+          "tuning": 1613000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz E-Actros",
+          "plate": "A564TP",
+          "fixPrice": 7000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Zetros 8x8",
+          "plate": "P908AH",
+          "fixPrice": 40000000
+        }
+      ],
+      "houses": [],
+      "skins": [
+        {
+          "name": "Шофер М",
+          "price": 4500000
+        },
+        {
+          "name": "Борис",
+          "price": 3000000
+        },
+        {
+          "name": "Дворовая",
+          "price": 300000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Бизнес",
+          "price": 40000000
+        }
+      ],
+      "phones": []
     }
   ]
 }
