@@ -1672,6 +1672,173 @@
         }
       ],
       "phones": []
+    },
+    {
+      "nick": "Toxa_Cortez",
+      "server": 4,
+      "cars": [
+        {
+          "type": "fix",
+          "name": "Велосипед Giant",
+          "plate": "—",
+          "fixPrice": 9999
+        },
+        {
+          "type": "fix",
+          "name": "LADA Priora Oper",
+          "plate": "H468PO",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "LADA Priora Oper",
+          "plate": "T333TT",
+          "fixPrice": 3000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota LC200 (2015) (п)",
+          "plate": "A001KP",
+          "fixPrice": 10000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota Supra V (A90)",
+          "plate": "X627BK",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2113 (п)",
+          "plate": "H159AX",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7",
+          "plate": "Y360OK",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "X451YA",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW I4 (G26)",
+          "plate": "C059EX",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach GLS 600",
+          "plate": "B888BP",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Brabus R900 AMG GT63S",
+          "plate": "A654ET",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Turbo Brabus (Rossler Mirage Turbo Brutus)",
+          "plate": "M000AA",
+          "fixPrice": 12000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLC 43 (C254)",
+          "plate": "M159EP",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG One",
+          "plate": "A762YP",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "P209BT",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "T397XB",
+          "fixPrice": 35000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 Compact",
+          "plate": "—",
+          "fixPrice": 5000000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 1199997
+        }
+      ],
+      "skins": [
+        {
+          "name": "Миллениум М",
+          "price": 700000
+        },
+        {
+          "name": "Офник",
+          "price": 1500000
+        },
+        {
+          "name": "Зеро",
+          "price": 1000000
+        },
+        {
+          "name": "Феликс",
+          "price": 3000000
+        },
+        {
+          "name": "Паук",
+          "price": 3000000
+        },
+        {
+          "name": "Дориан",
+          "price": 1500000
+        },
+        {
+          "name": "Каспер",
+          "price": 500000
+        },
+        {
+          "name": "Рэйвен",
+          "price": 1500000
+        },
+        {
+          "name": "Валера",
+          "price": 500000
+        },
+        {
+          "name": "Мор",
+          "price": 12000000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Бизнес",
+          "price": 40000000
+        }
+      ],
+      "phones": []
     }
   ]
 }
