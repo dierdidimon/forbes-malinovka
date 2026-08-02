@@ -2861,6 +2861,325 @@
         }
       ],
       "phones": []
+    },
+    {
+      "nick": "Tati_Cortez",
+      "server": 4,
+      "cars": [
+        {
+          "type": "fix",
+          "name": "УАЗ Hunter (п)",
+          "plate": "M077MM",
+          "fixPrice": 1000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW X6M II",
+          "plate": "—",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "—",
+          "fixPrice": 8000000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7",
+          "plate": "—",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Urus",
+          "plate": "P111YC",
+          "fixPrice": 17000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 900 Rocket",
+          "plate": "C900EX",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 (G80)",
+          "plate": "—",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "A099KA",
+          "fixPrice": 25000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "—",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "—",
+          "fixPrice": 35000000
+        },
+        {
+          "type": "fix",
+          "name": "Nissan GT-R I (Nismo)",
+          "plate": "C050CY",
+          "fixPrice": 10000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Новогодняя игрушка Москвич",
+          "plate": "—",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Daewoo Matiz",
+          "plate": "—",
+          "fixPrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "M050YP",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Zenvo TSR-S",
+          "plate": "—",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "std",
+          "name": "Renault Twizy (I)",
+          "plate": "—",
+          "gosCena": 339999,
+          "tuning": 827167
+        },
+        {
+          "type": "std",
+          "name": "Renault Twizy (I)",
+          "plate": "—",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Aston Martin Cygnet V8 (I)",
+          "plate": "H999AX",
+          "gosCena": 1099999,
+          "tuning": 863250,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Porsche Panamera I",
+          "plate": "—",
+          "gosCena": 1599999,
+          "tuning": 96000
+        },
+        {
+          "type": "fix",
+          "name": "BMW 7-series (G70)",
+          "plate": "A000XX",
+          "fixPrice": 12000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Flying Spur Mansory",
+          "plate": "—",
+          "fixPrice": 20000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW 7-series (G70)",
+          "plate": "—",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "std",
+          "name": "Honda CBR 500R",
+          "plate": "—",
+          "gosCena": 2499999,
+          "tuning": 37500
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 9000000
+        }
+      ],
+      "skins": [
+        {
+          "name": "Амалия",
+          "price": 4000000
+        },
+        {
+          "name": "Майя",
+          "price": 9000000
+        },
+        {
+          "name": "Белладонна",
+          "price": 5000000
+        },
+        {
+          "name": "Элена",
+          "price": 5000000
+        },
+        {
+          "name": "Роза",
+          "price": 13000000
+        },
+        {
+          "name": "Фрэнки",
+          "price": 15000000
+        },
+        {
+          "name": "Феникс",
+          "price": 1500000
+        },
+        {
+          "name": "Стелла",
+          "price": 3000000
+        },
+        {
+          "name": "Лия",
+          "price": 2000000
+        },
+        {
+          "name": "Рэйвен",
+          "price": 1500000
+        },
+        {
+          "name": "Мелани",
+          "price": 2000000
+        },
+        {
+          "name": "Мира",
+          "price": 4000000
+        },
+        {
+          "name": "Бьянка",
+          "price": 4000000
+        },
+        {
+          "name": "Валерия",
+          "price": 2500000
+        },
+        {
+          "name": "Дрифтер",
+          "price": 1000000
+        },
+        {
+          "name": "Дженни",
+          "price": 400000
+        },
+        {
+          "name": "Беретта",
+          "price": 2000000
+        },
+        {
+          "name": "Ванесса",
+          "price": 499999
+        },
+        {
+          "name": "Сайя",
+          "price": 149999
+        },
+        {
+          "name": "Снежная королева",
+          "price": 500000
+        },
+        {
+          "name": "Дана",
+          "price": 2000000
+        },
+        {
+          "name": "Госпожа Мороз",
+          "price": 500000
+        },
+        {
+          "name": "Аврора",
+          "price": 800000
+        },
+        {
+          "name": "Вероника",
+          "price": 599999
+        },
+        {
+          "name": "Шофер Ж",
+          "price": 4500000
+        },
+        {
+          "name": "Мор",
+          "price": 12000000
+        },
+        {
+          "name": "Клоун Парень",
+          "price": 1500000
+        },
+        {
+          "name": "Фанат BMW",
+          "price": 1000000
+        },
+        {
+          "name": "Борис",
+          "price": 3000000
+        },
+        {
+          "name": "Кощей",
+          "price": 350000
+        },
+        {
+          "name": "Кощей",
+          "price": 350000
+        },
+        {
+          "name": "Дориан",
+          "price": 1500000
+        },
+        {
+          "name": "Гном",
+          "price": 500000
+        },
+        {
+          "name": "Господин Мороз",
+          "price": 500000
+        },
+        {
+          "name": "Феликс",
+          "price": 3000000
+        },
+        {
+          "name": "Дед Мороз (2022)",
+          "price": 1500000
+        },
+        {
+          "name": "Ник",
+          "price": 200000
+        },
+        {
+          "name": "Райз",
+          "price": 2000000
+        }
+      ],
+      "businesses": [],
+      "phones": []
     }
   ]
 }
