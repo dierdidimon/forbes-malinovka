@@ -2469,6 +2469,254 @@
         }
       ],
       "phones": []
+    },
+    {
+      "nick": "Denis_Markovochkin",
+      "server": 4,
+      "cars": [
+        {
+          "type": "std",
+          "name": "МТЗ 80",
+          "plate": "A017HE",
+          "gosCena": 129999,
+          "tuning": 0
+        },
+        {
+          "type": "std",
+          "name": "Mazda RX-7 III (FD)",
+          "plate": "A320XB",
+          "gosCena": 1299999,
+          "tuning": 831250
+        },
+        {
+          "type": "fix",
+          "name": "УАЗ Hunter (п)",
+          "plate": "X372TA",
+          "fixPrice": 1000000
+        },
+        {
+          "type": "std",
+          "name": "Nissan 180SX",
+          "plate": "Y308BC",
+          "gosCena": 339999,
+          "tuning": 0
+        },
+        {
+          "type": "fix",
+          "name": "ГАЗ 21",
+          "plate": "K063CE",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2113 (п)",
+          "plate": "C109PT",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Dodge Challenger SRT Demon III",
+          "plate": "C666KP",
+          "fixPrice": 5000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW S1000",
+          "plate": "T685MC",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "Y750AT",
+          "fixPrice": 8000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW R75",
+          "plate": "A758BC",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model 3",
+          "plate": "T003OK",
+          "fixPrice": 6000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Nord URB",
+          "plate": "C239EP",
+          "gosCena": 299999,
+          "tuning": 161500
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model Y",
+          "plate": "T001OK",
+          "fixPrice": 4000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "RAM 1500 TRX",
+          "plate": "H681BX",
+          "gosCena": 1599999,
+          "tuning": 813000
+        },
+        {
+          "type": "fix",
+          "name": "Ducati Panigale ECO PRO",
+          "plate": "K610CY",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Cybertruck",
+          "plate": "T333OK",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "BMW 520i (E39)",
+          "plate": "X158BT",
+          "gosCena": 359999,
+          "tuning": 505800
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ВАЗ 2105",
+          "plate": "A261OE",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Vega RS",
+          "plate": "A715OB",
+          "gosCena": 499999,
+          "tuning": 596250
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ГАЗ-1945",
+          "plate": "H197ET",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "T000OK",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "std",
+          "name": "Honda CBR 500R",
+          "plate": "H680EA",
+          "gosCena": 2499999,
+          "tuning": 391667
+        },
+        {
+          "type": "fix",
+          "name": "Harley Davidson XL883N",
+          "plate": "H107YT",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz AMG One",
+          "plate": "B935KO",
+          "fixPrice": 25000000
+        },
+        {
+          "type": "std",
+          "name": "Mitsubishi Lancer Evolution VIII",
+          "plate": "—",
+          "gosCena": 699999,
+          "tuning": 572250
+        },
+        {
+          "type": "fix",
+          "name": "Volvo Crimson Knight",
+          "plate": "B012HO",
+          "fixPrice": 50000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "T111OK",
+          "fixPrice": 25000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Rolls-Royce Ghost Mansory",
+          "plate": "E058KM",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "std",
+          "name": "Toyota Land Cruiser 200 (2007)",
+          "plate": "—",
+          "gosCena": 2158999,
+          "tuning": 1051320
+        },
+        {
+          "type": "std",
+          "name": "Nissan 370Z",
+          "plate": "K924AP",
+          "gosCena": 1599999,
+          "tuning": 1208000
+        },
+        {
+          "type": "std",
+          "name": "BMW 320i (E36)",
+          "plate": "O860TP",
+          "gosCena": 339999,
+          "tuning": 211500
+        },
+        {
+          "type": "std",
+          "name": "Porsche Panamera I",
+          "plate": "X691KB",
+          "gosCena": 1599999,
+          "tuning": 960500
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz S63 VI (W222)",
+          "plate": "C063YK",
+          "gosCena": 11998999,
+          "tuning": 6734550
+        },
+        {
+          "type": "std",
+          "name": "Toyota Mark II VII (X90)",
+          "plate": "—",
+          "gosCena": 499999,
+          "tuning": 401250
+        }
+      ],
+      "houses": [],
+      "skins": [
+        {
+          "name": "Сплит",
+          "price": 7000000
+        },
+        {
+          "name": "Дрифтер.М",
+          "price": 1000000
+        },
+        {
+          "name": "Шофер М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
     }
   ]
 }
