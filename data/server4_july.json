@@ -2211,6 +2211,264 @@
       ],
       "businesses": [],
       "phones": []
+    },
+    {
+      "nick": "Winston_Andeground",
+      "server": 4,
+      "cars": [
+        {
+          "type": "std",
+          "name": "Audi RS6 (C7)",
+          "plate": "X001EP",
+          "gosCena": 6598999,
+          "tuning": 2719700,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2107 МКПП (п)",
+          "plate": "X032AM",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Panamera Turbo (II) (п) (Rossler Riviera Turbo II)",
+          "plate": "X001YE",
+          "fixPrice": 30000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный Audi A5 I (8T)",
+          "plate": "A005OO",
+          "fixPrice": 15000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz CLS 63 AMG",
+          "plate": "E999BM",
+          "fixPrice": 22000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche 911 R VII (991) (Rossler Mirage R VII)",
+          "plate": "X911EP",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Scania R730",
+          "plate": "C673AM",
+          "fixPrice": 8000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 AMG II (W463) (п)",
+          "plate": "O777OM",
+          "fixPrice": 30000000,
+          "platePrice": 5000000
+        },
+        {
+          "type": "fix",
+          "name": "Ford F-350 XIV",
+          "plate": "B560KP",
+          "fixPrice": 15000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW S1000",
+          "plate": "X013HK",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "Acura NSX I",
+          "plate": "M549CP",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLE 350d I (W166) (п)",
+          "plate": "T152AT",
+          "fixPrice": 7000000
+        },
+        {
+          "type": "fix",
+          "name": "Toyota LC200 (2015) (п)",
+          "plate": "P254KA",
+          "fixPrice": 10000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Huracan",
+          "plate": "C555EX",
+          "fixPrice": 15000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7",
+          "plate": "P506YO",
+          "fixPrice": 12000000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2114",
+          "plate": "P894TC",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M8 I (F93)",
+          "plate": "C400KA",
+          "fixPrice": 8000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Brabus 700",
+          "plate": "B666BB",
+          "fixPrice": 25000000,
+          "platePrice": 4000000
+        },
+        {
+          "type": "fix",
+          "name": "Lamborghini Urus",
+          "plate": "X001AX",
+          "fixPrice": 17000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Bentley Continental GT (II)",
+          "plate": "K123AM",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi Sport Quattro S1",
+          "plate": "X192OM",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M4 (G82)",
+          "plate": "A033OA",
+          "fixPrice": 7000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E63 (W212)",
+          "plate": "E063EE",
+          "gosCena": 2499999,
+          "tuning": 2748333,
+          "platePrice": 1000000
+        },
+        {
+          "type": "std",
+          "name": "BMW 530d (F10)",
+          "plate": "C069CC",
+          "gosCena": 2499999,
+          "tuning": 1000000,
+          "platePrice": 1000000
+        },
+        {
+          "type": "fix",
+          "name": "Праздничный ВАЗ 2105",
+          "plate": "—",
+          "fixPrice": 2000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz Maybach GLS 600",
+          "plate": "C108KP",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 (G80)",
+          "plate": "O333MM",
+          "fixPrice": 6000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5 G90",
+          "plate": "M555KK",
+          "fixPrice": 30000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz G63 6x6",
+          "plate": "X187CB",
+          "fixPrice": 35000000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Model S Plaid",
+          "plate": "E444EE",
+          "fixPrice": 25000000,
+          "platePrice": 3000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M1 Malini Sport",
+          "plate": "—",
+          "fixPrice": 3000000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz E63S (W213) (I)",
+          "plate": "E063CC",
+          "gosCena": 10198999,
+          "tuning": 3651367,
+          "platePrice": 500000
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 1649997
+        }
+      ],
+      "skins": [
+        {
+          "name": "Купидон М",
+          "price": 8000000
+        },
+        {
+          "name": "Чиди Аджуфо",
+          "price": 20000000
+        },
+        {
+          "name": "Билли Пулемёт",
+          "price": 10000000
+        },
+        {
+          "name": "Колин Фаррелл",
+          "price": 30000000
+        },
+        {
+          "name": "Дед Мороз (2022)",
+          "price": 1500000
+        },
+        {
+          "name": "Шофер М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [
+        {
+          "name": "Бизнес",
+          "price": 45000000
+        }
+      ],
+      "phones": []
     }
   ]
 }
