@@ -3180,6 +3180,196 @@
       ],
       "businesses": [],
       "phones": []
+    },
+    {
+      "nick": "Disa_Sport",
+      "server": 4,
+      "cars": [
+        {
+          "type": "fix",
+          "name": "ВАЗ 2113 (п)",
+          "plate": "E148KM",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "ВАЗ 2110",
+          "plate": "X298CP",
+          "fixPrice": 500000
+        },
+        {
+          "type": "fix",
+          "name": "Audi RS7",
+          "plate": "A000AE",
+          "fixPrice": 12000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW X6M II",
+          "plate": "X786AM",
+          "fixPrice": 6000000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M5CS (F90)",
+          "plate": "X005XX",
+          "fixPrice": 30000000,
+          "platePrice": 1500000
+        },
+        {
+          "type": "fix",
+          "name": "Ducati Panigale ECO PRO",
+          "plate": "O278YX",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "Tesla Semi",
+          "plate": "M653PH",
+          "fixPrice": 30000000
+        },
+        {
+          "type": "fix",
+          "name": "VOLNA Nord EXP (LADA Niva 6x6)",
+          "plate": "K762TX",
+          "fixPrice": 2500000
+        },
+        {
+          "type": "fix",
+          "name": "Mercedes-Benz GLC 43 (C254)",
+          "plate": "M423HP",
+          "fixPrice": 3500000
+        },
+        {
+          "type": "fix",
+          "name": "BMW M3 Touring (G80)",
+          "plate": "O506HY",
+          "fixPrice": 9000000
+        },
+        {
+          "type": "fix",
+          "name": "Porsche Macan EV",
+          "plate": "M007AK",
+          "fixPrice": 5000000,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Jeep Cherokee II (XJ)",
+          "plate": "C149KT",
+          "gosCena": 220999,
+          "tuning": 267400
+        },
+        {
+          "type": "std",
+          "name": "MINI Cooper S II",
+          "plate": "M184YP",
+          "gosCena": 499999,
+          "tuning": 847500
+        },
+        {
+          "type": "std",
+          "name": "ВАЗ 21099",
+          "plate": "H971KB",
+          "gosCena": 109999,
+          "tuning": 92000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz G500 (W463)",
+          "plate": "—",
+          "gosCena": 359999,
+          "tuning": 168800
+        },
+        {
+          "type": "std",
+          "name": "Aston Martin Cygnet V8 (I)",
+          "plate": "X512AP",
+          "gosCena": 1099999,
+          "tuning": 1365750
+        },
+        {
+          "type": "std",
+          "name": "ВАЗ 2103",
+          "plate": "P548BC",
+          "gosCena": 99999,
+          "tuning": 114000
+        },
+        {
+          "type": "std",
+          "name": "Skoda Octavia (A8)",
+          "plate": "A008OO",
+          "gosCena": 3238999,
+          "tuning": 1315317,
+          "platePrice": 500000
+        },
+        {
+          "type": "std",
+          "name": "Mercedes-Benz V250 (II)",
+          "plate": "M250YP",
+          "gosCena": 2698999,
+          "tuning": 1805520
+        },
+        {
+          "type": "std",
+          "name": "Chevrolet Camaro (VI)",
+          "plate": "K006MP",
+          "gosCena": 2499999,
+          "tuning": 1435000
+        },
+        {
+          "type": "std",
+          "name": "VOLNA Fora I",
+          "plate": "B656TK",
+          "gosCena": 299999,
+          "tuning": 211500
+        },
+        {
+          "type": "std",
+          "name": "Volvo Polestar (II)",
+          "plate": "H586AK",
+          "gosCena": 1599999,
+          "tuning": 1333333
+        },
+        {
+          "type": "std",
+          "name": "Audi A6 (C7) (доп., вне общего списка)",
+          "plate": "X851YE",
+          "gosCena": 3478999,
+          "tuning": 1829120
+        }
+      ],
+      "houses": [
+        {
+          "name": "Дом",
+          "price": 249999
+        }
+      ],
+      "skins": [
+        {
+          "name": "Борис",
+          "price": 3000000
+        },
+        {
+          "name": "Персей",
+          "price": 2000000
+        },
+        {
+          "name": "Леопард",
+          "price": 600000
+        },
+        {
+          "name": "Космо Парень",
+          "price": 1500000
+        },
+        {
+          "name": "Шофер М",
+          "price": 4500000
+        }
+      ],
+      "businesses": [],
+      "phones": []
     }
   ]
 }
