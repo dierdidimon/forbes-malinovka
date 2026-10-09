@@ -1132,7 +1132,7 @@
     },
     {
       "nick": "Monster_Marlboro",
-      "alias": "Yury_Johani",
+      "alias": "бывш. Yury_Johani",
       "cars": [
         {
           "type": "fix",
@@ -5351,7 +5351,7 @@
       "note": "список склеенный; 7 машин без КП не считаются (Sprinter, Москвич, 2× Праздн. Niva, Праздн. ВАЗ 2105, M1 Malini, 540i)"
     },
     {
-      "nick": "Donya_Complex",
+      "nick": "Donya_Druzhina",
       "cars": [
         {
           "type": "fix",
@@ -5585,7 +5585,8 @@
         }
       ],
       "businesses": [],
-      "phones": []
+      "phones": [],
+      "alias": "бывш. Donya_Complex"
     },
     {
       "nick": "Ing_Conextion",
